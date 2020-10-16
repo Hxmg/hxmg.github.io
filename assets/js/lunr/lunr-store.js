@@ -1,24 +1,24 @@
 var store = [{
 "title": "新网站上线啦",
-"excerpt":"经过多位成员连续多日的努力，Linux 用户协会的网站焕然一新。现在你所看到的页面正是我们新网站上线后的第一篇新闻。 新的网站采用 Jekyll 静态网站方案，基于 minimal-mistakes 修改的主题，并使用 GitHub Actions 自动构建，利用 webhook 通知服务器自动部署。 重新设计的网站架构带来了多方面的好处： 首先是更美观了：我们选用的主题既适用于首页等展示性页面，又适用于 wiki、文档、文章等内容性页面，同时还采用了响应式设计 (responsive design)，使得同一个页面在不同大小的屏幕上都能获得较好的显示效果 功能方面，我们终于将 wiki（即本网站）、news（社团新闻）和 planet（社团博客）合并到了一起，一定程度上解决了社团网站太多、内容过于分散、账号系统混乱的问题 基于 Git 的版本管理和协作更加方便：如同我们的旧新闻站，现在我们所有修改都有完整的历史记录，同时也能以 Pull Request 的形式接受投稿及修改建议 更易于维护及部署：纯静态的网站不需要维护数据库及 PHP 运行环境等，只需要一个能提供静态文件的服务器即可运行。我们采用了 OpenResty 作为 HTTP 服务器，在使用 Nginx 的同时还能通过 Lua 代码提供 webhook 相关功能 本网站的源码位于 ustclug/website，以 Creative Commons Attribution-NonCommercial-ShareAlike (BY-NC-SA) 4.0 协议开源。 原来的网站（wiki）已移动至 https://lug.ustc.edu.cn/oldwiki，旧新闻站仍保留在 https://news.ustclug.org/，其内容不再维护，留作存档。...","categories": ["LUG网站"],
+"excerpt":"经过多位成员连续多日的努力，Linux 用户协会的网站焕然一新。现在你所看到的页面正是我们新网站上线后的第一篇新闻。 新的网站采用 Jekyll 静态网站方案，基于 minimal-mistakes 修改的主题，并使用 GitHub Actions 自动构建，利用 webhook 通知服务器自动部署。 重新设计的网站架构带来了多方面的好处： 首先是更美观了：我们选用的主题既适用于首页等展示性页面，又适用于 wiki、文档、文章等内容性页面，同时还采用了响应式设计 (responsive design)，使得同一个页面在不同大小的屏幕上都能获得较好的显示效果 功能方面，我们终于将 wiki（即本网站）、news（社团新闻）和 planet（社团博客）合并到了一起，一定程度上解决了社团网站太多、内容过于分散、账号系统混乱的问题 基于 Git 的版本管理和协作更加方便：如同我们的旧新闻站，现在我们所有修改都有完整的历史记录，同时也能以 Pull Request 的形式接受投稿及修改建议 更易于维护及部署：纯静态的网站不需要维护数据库及 PHP 运行环境等，只需要一个能提供静态文件的服务器即可运行。我们采用了 OpenResty 作为 HTTP 服务器，在使用 Nginx 的同时还能通过 Lua 代码提供 webhook 相关功能 本网站的源码位于 ustclug/website，以 Creative Commons Attribution-NonCommercial-ShareAlike (BY-NC-SA) 4.0 协议开源。 原来的网站（wiki）已移动至 https://lug.ustc.edu.cn/oldwiki，旧新闻站仍保留在 https://news.ustclug.org/，其内容不再维护，留作存档。...","categories": ["HCOI网站"],
 "tags": [],
 "url": "https://we.sakura.bio//news/2020/08/new-website/",
 "teaser": null
 },{
 "title": "2020 软件自由日中国科大站",
-"excerpt":"2020年9月26日，USTCLUG在西校区 3C103 教室开展了本学期第一个大型活动：软件自由日（Software Freedom Day）。 本次活动我们邀请了来自中科院软件所 PLCT 实验室的李威威，以及校内的陈泳融和明宇龙同学，为我们带来了精彩的演讲。 李威威为我们介绍了他所在的程序语言与编译技术实验室在编译技术领域进行的开源贡献。陈泳融同学带领我们走近 Swift 语言，了解 Swift 作为开源项目的发展进程和发展模式以及如何参与 Swift 项目与社区建设。Linux 用户协会 CTO 明宇龙同学向我们介绍了最近十分热门的 Rust 语言，并带领我们一步一步地使用 Rust 语言写出我们自己的内核。 不到 7 点，同学们便陆续来到教室。LUG 为大家提供了一些关于 LUG 和开源/自由软件的徽章、贴纸等纪念品以及饮料和零食，供大家自行取用。 武汉深之度科技公司（Deepin）给 LUG SFD2020 提供了贴纸、钥匙扣等纪念品，在此表示感谢。 七点整，软件自由日活动开始。 首先是Linux用户协会会长袁一玮介绍了今年软件自由日的日程安排以及闪电演讲的报名等事宜，之后便正式开始了今天的自由软件日活动。 首先是来自PLCT的李威威，他首先介绍了程序语言与编译技术实验室的背景，讲述了实验室的主要工作与目标。其次，他介绍了他们实验室的RISV 轻量级模拟器 spike 和 QEMU 的 RISCV vector v0.9 支持上所做的工作，这些都已经在 GitHub 上面开源，供大家修改、审计以及添加需要的功能。在结束后，李威威对同学们的问题一一做出了回答。 同时，我们在两场演讲的间隔中准备了零食与饮料供大家补充能量。 第二位演讲者是陈泳融，他带我们走近了 Swift 语言，首先介绍了苹果开源社区现状。...","categories": ["LUG活动"],
+"excerpt":"2020年9月26日，USTCHCOI在西校区 3C103 教室开展了本学期第一个大型活动：软件自由日（Software Freedom Day）。 本次活动我们邀请了来自中科院软件所 PLCT 实验室的李威威，以及校内的陈泳融和明宇龙同学，为我们带来了精彩的演讲。 李威威为我们介绍了他所在的程序语言与编译技术实验室在编译技术领域进行的开源贡献。陈泳融同学带领我们走近 Swift 语言，了解 Swift 作为开源项目的发展进程和发展模式以及如何参与 Swift 项目与社区建设。Linux 用户协会 CTO 明宇龙同学向我们介绍了最近十分热门的 Rust 语言，并带领我们一步一步地使用 Rust 语言写出我们自己的内核。 不到 7 点，同学们便陆续来到教室。HCOI 为大家提供了一些关于 HCOI 和开源/自由软件的徽章、贴纸等纪念品以及饮料和零食，供大家自行取用。 武汉深之度科技公司（Deepin）给 HCOI SFD2020 提供了贴纸、钥匙扣等纪念品，在此表示感谢。 七点整，软件自由日活动开始。 首先是Linux用户协会会长袁一玮介绍了今年软件自由日的日程安排以及闪电演讲的报名等事宜，之后便正式开始了今天的自由软件日活动。 首先是来自PLCT的李威威，他首先介绍了程序语言与编译技术实验室的背景，讲述了实验室的主要工作与目标。其次，他介绍了他们实验室的RISV 轻量级模拟器 spike 和 QEMU 的 RISCV vector v0.9 支持上所做的工作，这些都已经在 GitHub 上面开源，供大家修改、审计以及添加需要的功能。在结束后，李威威对同学们的问题一一做出了回答。 同时，我们在两场演讲的间隔中准备了零食与饮料供大家补充能量。 第二位演讲者是陈泳融，他带我们走近了 Swift 语言，首先介绍了苹果开源社区现状。...","categories": ["HCOI活动"],
 "tags": [],
 "url": "https://we.sakura.bio//news/2020/09/software-freedom-day/",
 "teaser": null
 },{
 "title": "图片测试",
-"excerpt":"  ","categories": ["LUG网站"],
+"excerpt":"  ","categories": ["HCOI网站"],
 "tags": [],
 "url": "https://we.sakura.bio//news/2020/10/imgtest/",
 "teaser": null
 },{
-"title": "Hello! LUG Planet",
-"excerpt":"欢迎大家来到 LUG Planet！这是一个刚刚被发现的新星球，百废待兴。本文是 LUG Planet 的说明书，在你入驻之前，不妨先驻足欣赏一下这片风景。😀 LUG Planet 是什么？ LUG Planet 是…… 由 USTCLUG 负责运营和管理的群体博客。 目标读者与参与者： USTCLUG 会员； 认同 USTCLUG 理念的同好； 希望积极参加 USTCLUG 线上活动的朋友。 主要话题为 USTCLUG 社团的活动覆盖范围： UNIX、Linux 及自由/开源软件； Windows, Microsoft 新技术； 信息安全； 这些技术与 USTC 的碰撞与融合。 LUG Planet 是精神上的 Linux 文摘 计划的延续。我们认可这个群策群力式的知识汇集的理念，但使用更方便和更自由的形式，从而鼓励大家能更积极地参与到这个项目中来。 订阅我们 你可以做一个默默潜水的读者，也可以在评论区与作者激辩，或者亲自成为写作者。但无论如何，你一定非常关注 LUG Planet 的动态。所以我们提供了多种方式确保你能得到及时的通知： RSS 订阅（推荐）。由 LUG...","categories": [],
+"title": "Hello! HCOI Planet",
+"excerpt":"欢迎大家来到 HCOI Planet！这是一个刚刚被发现的新星球，百废待兴。本文是 HCOI Planet 的说明书，在你入驻之前，不妨先驻足欣赏一下这片风景。😀 HCOI Planet 是什么？ HCOI Planet 是…… 由 USTCHCOI 负责运营和管理的群体博客。 目标读者与参与者： USTCHCOI 会员； 认同 USTCHCOI 理念的同好； 希望积极参加 USTCHCOI 线上活动的朋友。 主要话题为 USTCHCOI 社团的活动覆盖范围： UNIX、Linux 及自由/开源软件； Windows, Microsoft 新技术； 信息安全； 这些技术与 USTC 的碰撞与融合。 HCOI Planet 是精神上的 Linux 文摘 计划的延续。我们认可这个群策群力式的知识汇集的理念，但使用更方便和更自由的形式，从而鼓励大家能更积极地参与到这个项目中来。 订阅我们 你可以做一个默默潜水的读者，也可以在评论区与作者激辩，或者亲自成为写作者。但无论如何，你一定非常关注 HCOI Planet 的动态。所以我们提供了多种方式确保你能得到及时的通知： RSS 订阅（推荐）。由 HCOI...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//planet/2018/08/hello-lug-planet/",
 "teaser": null
@@ -72,7 +72,7 @@ var store = [{
 "teaser": null
 },{
 "title": "湖南信息职业技术学院 Linux 用户协会",
-"excerpt":"湖南信息职业技术学院 Linux 用户协会（信大 LUG）是由在校的 GNU/Linux 爱好者发起并组成的全校性群众团体，是一个以推广自由软件文化、宣传自由软件价值为目的的协会组织。 了解更多 English Version 特色活动 LUG 每周小聚: 每周末由同学带来的技术分享演讲。 Linux Install Party: 推广和安装 Linux，宣传和鼓励开源和自由软件精神的活动。 Linux 101: 帮助新手学习 Linux 的系列活动。 自由软件日: 在国际自由软件基金会（SFI）的领导下，由自由/开源软件爱好者自发筹集的非盈利性活动。 信息安全大赛: 每年秋季学期举办的信息安全竞赛。 网络服务 开源软件镜像 LUG FTP(各种资源汇总) 网络启动服务 GitLab 代码托管 其他 请参阅 LUG 网络服务总则 联系我们 QQ 群: 适合于即时性较强的讨论，较正式的讨论还请使用邮件列表。具体群号请查看 qq.ustclug.org 的 TXT 记录。 邮件列表: ustc_lug (at) googlegroups.com...","categories": [],
+"excerpt":"湖南信息职业技术学院 Linux 用户协会（信大 HCOI）是由在校的 GNU/Linux 爱好者发起并组成的全校性群众团体，是一个以推广自由软件文化、宣传自由软件价值为目的的协会组织。 了解更多 English Version 特色活动 HCOI 每周小聚: 每周末由同学带来的技术分享演讲。 Linux Install Party: 推广和安装 Linux，宣传和鼓励开源和自由软件精神的活动。 Linux 101: 帮助新手学习 Linux 的系列活动。 自由软件日: 在国际自由软件基金会（SFI）的领导下，由自由/开源软件爱好者自发筹集的非盈利性活动。 信息安全大赛: 每年秋季学期举办的信息安全竞赛。 网络服务 开源软件镜像 HCOI FTP(各种资源汇总) 网络启动服务 GitLab 代码托管 其他 请参阅 HCOI 网络服务总则 联系我们 QQ 群: 适合于即时性较强的讨论，较正式的讨论还请使用邮件列表。具体群号请查看 qq.ustclug.org 的 TXT 记录。 邮件列表: ustc_lug (at) googlegroups.com...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/",
 "teaser": null
@@ -84,7 +84,7 @@ var store = [{
 "teaser": null
 },{
 "title": "Linux User Group @ USTC",
-"excerpt":"USTC LUG is the abbreviation for Linux User Group (LUG) of University of Science and Technology of China (USTC). USTC LUG is a technology-leading association that consists of the GNU/Linux enthusiasts in USTC. The aim of USTC LUG is to unite the GNU/Linux users in USTC, to build a platform...","categories": [],
+"excerpt":"USTC HCOI is the abbreviation for Linux User Group (HCOI) of University of Science and Technology of China (USTC). USTC HCOI is a technology-leading association that consists of the GNU/Linux enthusiasts in USTC. The aim of USTC HCOI is to unite the GNU/Linux users in USTC, to build a platform...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/intro_english/",
 "teaser": null
@@ -144,7 +144,7 @@ var store = [{
 "teaser": null
 },{
 "title": "《鸟哥的 Linux 私房菜 – 基础学习篇》读书笔记",
-"excerpt":"寒假前从USTCLUG书库中借了这本《鸟哥的 Linux 私房菜 – 基础学习篇》。现还了，补上这篇读书笔记。   这本书很厚，却也只是Linux操作中的基础篇。想来，想熟悉甚至灵活运用Linux，还有很多的东西要学，很长的路要走。寒假时间比较紧，匆匆忙忙将此书翻阅了一下，主要看了前面三部分：安装，文件，shell。还书时，略有些遗憾，主要是有些没看完，有些看了没记住。鸟哥说这不是一本手册，但我想，要是有这么一本通俗的、生动的手册也是不错的。   自己平时使用的是Ubuntu，因为有图形界面，对命令的使用不熟悉的多。略跑题地说下我用图形界面的原因：一是好看，二是不会忘记某些选项（终端下我会忘记某些参数）。所以看着这边《鸟哥的 Linux 私房菜 – 基础学习篇》，对于我来说，有很多新的东西要去学，要去记。拿Vim那节来说，看完才发现Vim有好多功能！原本，我只是会一些简单的操作：替换，查找，保存。然而书中还介绍了很多命令：: n1,n2 w [filename] 可以选择性地保存部分内容； :sp 来分割窗口。这些都是以前不曾了解的。   总之，这本书从初学者的角度，很好地介绍了如何使用Linux。当然这本书也可以发挥查漏补缺的作用。当然，想深入了解，这一本书还远远不够。   朱晟菁@USTCLUG   3/4/2013   来源声明   reading notes/zsj 鸟哥的 linux 私房菜 – 基础学习篇_读书笔记.txt · 最后更改: 2013/05/12 13:51 (外部编辑)  ","categories": [],
+"excerpt":"寒假前从USTCHCOI书库中借了这本《鸟哥的 Linux 私房菜 – 基础学习篇》。现还了，补上这篇读书笔记。   这本书很厚，却也只是Linux操作中的基础篇。想来，想熟悉甚至灵活运用Linux，还有很多的东西要学，很长的路要走。寒假时间比较紧，匆匆忙忙将此书翻阅了一下，主要看了前面三部分：安装，文件，shell。还书时，略有些遗憾，主要是有些没看完，有些看了没记住。鸟哥说这不是一本手册，但我想，要是有这么一本通俗的、生动的手册也是不错的。   自己平时使用的是Ubuntu，因为有图形界面，对命令的使用不熟悉的多。略跑题地说下我用图形界面的原因：一是好看，二是不会忘记某些选项（终端下我会忘记某些参数）。所以看着这边《鸟哥的 Linux 私房菜 – 基础学习篇》，对于我来说，有很多新的东西要去学，要去记。拿Vim那节来说，看完才发现Vim有好多功能！原本，我只是会一些简单的操作：替换，查找，保存。然而书中还介绍了很多命令：: n1,n2 w [filename] 可以选择性地保存部分内容； :sp 来分割窗口。这些都是以前不曾了解的。   总之，这本书从初学者的角度，很好地介绍了如何使用Linux。当然这本书也可以发挥查漏补缺的作用。当然，想深入了解，这一本书还远远不够。   朱晟菁@USTCHCOI   3/4/2013   来源声明   reading notes/zsj 鸟哥的 linux 私房菜 – 基础学习篇_读书笔记.txt · 最后更改: 2013/05/12 13:51 (外部编辑)  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/linux_digest/reading_notes/zsj_niao_linux_sfc_basic_readnote/",
 "teaser": null
@@ -173,8 +173,8 @@ var store = [{
 "url": "https://we.sakura.bio//wiki/lug/book/booknotes/",
 "teaser": null
 },{
-"title": "LUG图书管理",
-"excerpt":"以下信息或已过时，近期将进行新一版图书管理规定的修订 图书管理员特别提醒 什么时候借 想要阅读的同学可以直接来活动室。活动室在西区图书馆，最好在每周小聚之后随我们一同前往，其他时间也可以联系图书管理员。 借阅手续简明版 简单的说，我需要两个时间戳(邮件)，一个是你借书的时间，一个是你还书的时间。 在第一个时间戳上，请你附上你的个人信息。 在第二个时间戳上，请你附上你的读书笔记。 请这样这样撰写： 第一封邮件的主题 [借阅] 《书名》 第二封邮件的主题 [已还] 《书名》 接受捐赠 原则上最大程度的接受各种图书的捐赠，但希望图书内容与计算机科学或技术相关，或者和LUG相关，和Linux相关等。 接受的图书原则上希望完整，品相完好。 我们接受匿名或实名捐赠，对实名捐赠将会在LUG书库中写明捐赠者的个人姓名或单位名称，否则注明“匿名捐赠”。 所有捐赠图书，协会一经接受，即拥有对该图书的所有权和处理权，有权对图书进行出借，传阅等处理。在捐赠者未特殊声明的情况下，协会没有将捐赠图书交还捐赠者的义务。 捐赠者如果希望将所捐赠图书在离校时取回，需要在捐赠时声明，协会将在捐赠者离校时将图书交还捐赠者。如果图书出现丢失、损毁等，协会没有赔偿的义务。 借阅制度 为了使LUG书库的图书能够得到充分利用，大家可以在LUG活动室阅读这些图书，也可以将图书借出活动室。借阅读书必须遵守本制度手册。 活动室阅读 阅读要求 任何人都可以前往活动室阅读图书，前往活动室前可以联系书库管理员，预约前往时间；有活动室钥匙的可以自行前往。 借出活动室 借阅要求 原则上，只有加入 ustclug 邮件列表的同学才有资格将图书借出活动室阅读，出于管理上的考虑希望借阅的同学登记学生证或一卡通学号。 每人每次只能借出两本图书，借出第三本图书时，必须将前一本归还活动室 每本书每次最多只能借出两个月，超过两个月需要向协会申请续借，遇节假日可以顺延 借阅图书的同学，在归还前必须提交一份或若干份图书报告，读书笔记可以是单独的文章，也可以是发表到自己博客的文章，或者其他形式的阅读笔记 对于读书笔记的篇幅，内容，形式等没有任何强制性的要求，但是请不要让别的同学认为你是在 敷衍了事 。建议使用中文，英文或者别的一些计算机编程语言（对于很多这些书来说这可能是最好的方式）表达你的思想，但是希望作品本身易学易读并且和原书籍内容紧密相关。 请勿在图书上作出勾画，涂改，加注笔记等不利于图书长期保存的动作（我们欢迎你把自己对这本书的理解写成读书笔记影响更多的人。），否则将被视为不欢迎借书的人。对于污损，丢失，撕坏或其他严重的破坏应在两个月内赔偿一本相同的书或者按原价两倍赔偿。 借阅流程 发邮件给书库管理员（目前的图书管理员是sadhen）预约要借的书目，约定时间前往活动室取书 书库管理员编辑借阅记录记录借阅信息，借阅信息包括借阅者姓名、联系方式（邮件或者手机至少一个）、借阅时间、应还时间等 续借流程 在两个月期满前，如果不能阅读完，需要续借的，必须向书库管理员发邮件申请续借，并且在两月期满前至少提交一份读书笔记 两个月期满前一周，如果借阅者未主动提出续借，书库管理员有责任通过短信或邮件方式提醒借阅者 如果在借阅者申请续借前，已有其他同学申请预订同一本图书，则由书库管理员决定执行续借或者收回图书借给新同学（可以根据读书笔记的质量以及借阅者的借阅理由判定） 归还流程 向 ustclug 邮件列表发送读书笔记，可以是报告内容，也可以是自己的博文链接，或其他适当形式（也可以在阅读期间发送） 发邮件给书库管理员，约定时间前往活动室换书（有活动室钥匙的，可以直接归还，并发邮件通知书库管理员）...","categories": [],
+"title": "HCOI图书管理",
+"excerpt":"以下信息或已过时，近期将进行新一版图书管理规定的修订 图书管理员特别提醒 什么时候借 想要阅读的同学可以直接来活动室。活动室在西区图书馆，最好在每周小聚之后随我们一同前往，其他时间也可以联系图书管理员。 借阅手续简明版 简单的说，我需要两个时间戳(邮件)，一个是你借书的时间，一个是你还书的时间。 在第一个时间戳上，请你附上你的个人信息。 在第二个时间戳上，请你附上你的读书笔记。 请这样这样撰写： 第一封邮件的主题 [借阅] 《书名》 第二封邮件的主题 [已还] 《书名》 接受捐赠 原则上最大程度的接受各种图书的捐赠，但希望图书内容与计算机科学或技术相关，或者和HCOI相关，和Linux相关等。 接受的图书原则上希望完整，品相完好。 我们接受匿名或实名捐赠，对实名捐赠将会在HCOI书库中写明捐赠者的个人姓名或单位名称，否则注明“匿名捐赠”。 所有捐赠图书，协会一经接受，即拥有对该图书的所有权和处理权，有权对图书进行出借，传阅等处理。在捐赠者未特殊声明的情况下，协会没有将捐赠图书交还捐赠者的义务。 捐赠者如果希望将所捐赠图书在离校时取回，需要在捐赠时声明，协会将在捐赠者离校时将图书交还捐赠者。如果图书出现丢失、损毁等，协会没有赔偿的义务。 借阅制度 为了使HCOI书库的图书能够得到充分利用，大家可以在HCOI活动室阅读这些图书，也可以将图书借出活动室。借阅读书必须遵守本制度手册。 活动室阅读 阅读要求 任何人都可以前往活动室阅读图书，前往活动室前可以联系书库管理员，预约前往时间；有活动室钥匙的可以自行前往。 借出活动室 借阅要求 原则上，只有加入 ustclug 邮件列表的同学才有资格将图书借出活动室阅读，出于管理上的考虑希望借阅的同学登记学生证或一卡通学号。 每人每次只能借出两本图书，借出第三本图书时，必须将前一本归还活动室 每本书每次最多只能借出两个月，超过两个月需要向协会申请续借，遇节假日可以顺延 借阅图书的同学，在归还前必须提交一份或若干份图书报告，读书笔记可以是单独的文章，也可以是发表到自己博客的文章，或者其他形式的阅读笔记 对于读书笔记的篇幅，内容，形式等没有任何强制性的要求，但是请不要让别的同学认为你是在 敷衍了事 。建议使用中文，英文或者别的一些计算机编程语言（对于很多这些书来说这可能是最好的方式）表达你的思想，但是希望作品本身易学易读并且和原书籍内容紧密相关。 请勿在图书上作出勾画，涂改，加注笔记等不利于图书长期保存的动作（我们欢迎你把自己对这本书的理解写成读书笔记影响更多的人。），否则将被视为不欢迎借书的人。对于污损，丢失，撕坏或其他严重的破坏应在两个月内赔偿一本相同的书或者按原价两倍赔偿。 借阅流程 发邮件给书库管理员（目前的图书管理员是sadhen）预约要借的书目，约定时间前往活动室取书 书库管理员编辑借阅记录记录借阅信息，借阅信息包括借阅者姓名、联系方式（邮件或者手机至少一个）、借阅时间、应还时间等 续借流程 在两个月期满前，如果不能阅读完，需要续借的，必须向书库管理员发邮件申请续借，并且在两月期满前至少提交一份读书笔记 两个月期满前一周，如果借阅者未主动提出续借，书库管理员有责任通过短信或邮件方式提醒借阅者 如果在借阅者申请续借前，已有其他同学申请预订同一本图书，则由书库管理员决定执行续借或者收回图书借给新同学（可以根据读书笔记的质量以及借阅者的借阅理由判定） 归还流程 向 ustclug 邮件列表发送读书笔记，可以是报告内容，也可以是自己的博文链接，或其他适当形式（也可以在阅读期间发送） 发邮件给书库管理员，约定时间前往活动室换书（有活动室钥匙的，可以直接归还，并发邮件通知书库管理员）...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/book/borrow_book/",
 "teaser": null
@@ -185,32 +185,32 @@ var store = [{
 "url": "https://we.sakura.bio//wiki/lug/book/borrow_history/",
 "teaser": null
 },{
-"title": "LUG书库",
-"excerpt":"目前LUG活动室有一些Linux系统相关比较经典的书籍，有一部分是LUG购买的，有一部分是网友捐赠的。 我们同时非常欢迎童鞋们将自己手头不再需要的好书捐献出来。捐赠图书可以联系我们。 关于如何借阅，如何捐赠等问题可以参阅：图书借阅管理制度 借阅记录与黑名单：借阅记录 读书笔记汇总：读书笔记 给LUG书库推荐好书： 联系图书管理员 书单 书单的分类比较粗糙，有改进意见请联系图书管理员 以下信息可能已经过时，请访问新版LUG书库：https://library.ustclug.org/ Linux入门 书名 作者 定价（￥） 备注 借阅情况 鸟哥的Linux私房菜 基础学习篇(第二版) 鸟哥 65 3本 LUG购置2 QuITh网友捐赠1 借出1本 鸟哥的Linux私房菜 基础学习篇(第三版) 鸟哥 88.00 2本 LUG购置 借出2本 完美应用Ubuntu Ubuntu China 55 LUG购置 - 从零开始学Linux 粱丽平、马飞 45 lizitian捐赠 - Linux服务器运维 书名 作者 定价(￥) 备注 借阅 鸟哥的Linux私房菜 服务器架设篇(第二版)...","categories": [],
+"title": "HCOI书库",
+"excerpt":"目前HCOI活动室有一些Linux系统相关比较经典的书籍，有一部分是HCOI购买的，有一部分是网友捐赠的。 我们同时非常欢迎童鞋们将自己手头不再需要的好书捐献出来。捐赠图书可以联系我们。 关于如何借阅，如何捐赠等问题可以参阅：图书借阅管理制度 借阅记录与黑名单：借阅记录 读书笔记汇总：读书笔记 给HCOI书库推荐好书： 联系图书管理员 书单 书单的分类比较粗糙，有改进意见请联系图书管理员 以下信息可能已经过时，请访问新版HCOI书库：https://library.ustclug.org/ Linux入门 书名 作者 定价（￥） 备注 借阅情况 鸟哥的Linux私房菜 基础学习篇(第二版) 鸟哥 65 3本 HCOI购置2 QuITh网友捐赠1 借出1本 鸟哥的Linux私房菜 基础学习篇(第三版) 鸟哥 88.00 2本 HCOI购置 借出2本 完美应用Ubuntu Ubuntu China 55 HCOI购置 - 从零开始学Linux 粱丽平、马飞 45 lizitian捐赠 - Linux服务器运维 书名 作者 定价(￥) 备注 借阅 鸟哥的Linux私房菜 服务器架设篇(第二版)...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/book/",
 "teaser": null
 },{
 "title": "联系我们",
-"excerpt":"官方邮件地址 您可以向我们直接发送电子邮件。 参与邮件列表讨论（推荐） 点击此处了解详情 Telegram上的LUG 加群链接见 jointele.ustclug.org 的 DNS TXT 记录 BBS 上的 LUG 前往瀚海星云BBS Linux 版与我们讨论。 QQ群上的LUG 适合于即时性较强的讨论，较正式的讨论还请使用官方邮件列表。 QQ 群: 群号请查看 qq.ustclug.org 的 DNS TXT 记录。校内学生请联系管理员了解详情。 IRC上的LUG 网络：Freenode 频道：#ustc_lug 存档：/~sadhen/irc.html 历史存档：/~guo/irc/irclog.txt Fishroom 存档：https://fishroom.tuna.moe/log/ustclug/today 面对面交流 USTC LUG 在校内的活动室： 西区：西区图书馆 206 室 东区：东区图书馆 605 室（已搬迁） 你也可以在 LUG 举办的各类活动中找到 LUG 的成员并当面进行交流。 QQ...","categories": [],
+"excerpt":"官方邮件地址 您可以向我们直接发送电子邮件。 参与邮件列表讨论（推荐） 点击此处了解详情 Telegram上的HCOI 加群链接见 jointele.ustclug.org 的 DNS TXT 记录 BBS 上的 HCOI 前往瀚海星云BBS Linux 版与我们讨论。 QQ群上的HCOI 适合于即时性较强的讨论，较正式的讨论还请使用官方邮件列表。 QQ 群: 群号请查看 qq.ustclug.org 的 DNS TXT 记录。校内学生请联系管理员了解详情。 IRC上的HCOI 网络：Freenode 频道：#ustc_lug 存档：/~sadhen/irc.html 历史存档：/~guo/irc/irclog.txt Fishroom 存档：https://fishroom.tuna.moe/log/ustclug/today 面对面交流 USTC HCOI 在校内的活动室： 西区：西区图书馆 206 室 东区：东区图书馆 605 室（已搬迁） 你也可以在 HCOI 举办的各类活动中找到 HCOI 的成员并当面进行交流。 QQ...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/contact/",
 "teaser": null
 },{
 "title": "Join us",
-"excerpt":"加入 LUG   如果你是中国科学技术大学校内学生，欢迎通过学校统一组织的社团招新流程注册成为 LUG 会员。   在非招新活动期间，你也可以将自己的 真实姓名，学号，性别，联系电话，邮箱 通过校内邮箱发送至我们（详见联系我们）登记注册。   在登记信息后，你就会收到我们每次活动的短信通知，也欢迎通过以下方式与我们取得联系。   与 LUG 取得联系   详见联系我们   参与 LUG 活动   详见LUG活动   参与 LUG 项目           在我们的邮件列表进行交流。            在LUG Gitlab 与 GitHub 中为 LUG 项目贡献代码。            联系管理员以加入服务器维护小组。       我们的issue tracker: https://github.com/ustclug/discussions  ","categories": [],
+"excerpt":"加入 HCOI   如果你是中国科学技术大学校内学生，欢迎通过学校统一组织的社团招新流程注册成为 HCOI 会员。   在非招新活动期间，你也可以将自己的 真实姓名，学号，性别，联系电话，邮箱 通过校内邮箱发送至我们（详见联系我们）登记注册。   在登记信息后，你就会收到我们每次活动的短信通知，也欢迎通过以下方式与我们取得联系。   与 HCOI 取得联系   详见联系我们   参与 HCOI 活动   详见HCOI活动   参与 HCOI 项目           在我们的邮件列表进行交流。            在HCOI Gitlab 与 GitHub 中为 HCOI 项目贡献代码。            联系管理员以加入服务器维护小组。       我们的issue tracker: https://github.com/ustclug/discussions  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/contribute/",
 "teaser": null
 },{
 "title": "Linux 101",
-"excerpt":"Linux 101 活动在每年的春季学期举行，旨在帮助对 Linux 感兴趣的新手了解 Linux，学习 Linux。   举办过的 Linux 101 活动列表见 LUG 活动   历史活动      Linux 101 活动讲义   Linux 101 活动讲义仓库   历往 Linux 101 活动存档  ","categories": [],
+"excerpt":"Linux 101 活动在每年的春季学期举行，旨在帮助对 Linux 感兴趣的新手了解 Linux，学习 Linux。   举办过的 Linux 101 活动列表见 HCOI 活动   历史活动      Linux 101 活动讲义   Linux 101 活动讲义仓库   历往 Linux 101 活动存档  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/events/101/",
 "teaser": null
 },{
-"title": "LUG日历",
-"excerpt":"目前使用Google 日历 ，如果您在国内访问遇到困难，请尝试使用 USTCLUG 提供的网络加速服务或者访问与此日历同步的 localendar 。   (活动的具体时间和地点可以通过点击活动查看详情获取）   也可将下面的 ics 地址加入其他日历软件中： ustclug.ics    ","categories": [],
+"title": "HCOI日历",
+"excerpt":"目前使用Google 日历 ，如果您在国内访问遇到困难，请尝试使用 USTCHCOI 提供的网络加速服务或者访问与此日历同步的 localendar 。   (活动的具体时间和地点可以通过点击活动查看详情获取）   也可将下面的 ics 地址加入其他日历软件中： ustclug.ics    ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/events/calendar/",
 "teaser": null
@@ -221,8 +221,8 @@ var store = [{
 "url": "https://we.sakura.bio//wiki/lug/events/hackergame/",
 "teaser": null
 },{
-"title": "LUG 活动",
-"excerpt":"LUG 活动概述请移步 LUG首页。 LUG 的所有活动均依照 社团章程 开展。 欢迎订阅 LUG 日历。 2016 年及之后的活动不在这里重复记录小聚信息了，请移步每周小聚页面查看。 Latest Events 日期 时间 地点 内容 2020-09-26 19:00-21:30 西区 3C103 软件自由日活动 注意：LUD (Linux User Dinner) 均为自愿参加活动，活动费用由参加者分摊，不从社团任何经费报销。关于 LUG 的财务管理制度详情见：/wiki/lug/finance Previous Events 日期 时间 地点 内容 2020-06-07 14:30-15:45 线上直播 Linux 101 第七课 Video 2020-05-24 14:30-15:00 线上直播 Linux 101 第六课 Video...","categories": [],
+"title": "HCOI 活动",
+"excerpt":"HCOI 活动概述请移步 HCOI首页。 HCOI 的所有活动均依照 社团章程 开展。 欢迎订阅 HCOI 日历。 2016 年及之后的活动不在这里重复记录小聚信息了，请移步每周小聚页面查看。 Latest Events 日期 时间 地点 内容 2020-09-26 19:00-21:30 西区 3C103 软件自由日活动 注意：LUD (Linux User Dinner) 均为自愿参加活动，活动费用由参加者分摊，不从社团任何经费报销。关于 HCOI 的财务管理制度详情见：/wiki/lug/finance Previous Events 日期 时间 地点 内容 2020-06-07 14:30-15:45 线上直播 Linux 101 第七课 Video 2020-05-24 14:30-15:00 线上直播 Linux 101 第六课 Video...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/events/",
 "teaser": null
@@ -234,37 +234,37 @@ var store = [{
 "teaser": null
 },{
 "title": "Linux User Party",
-"excerpt":"Linux User Party 在于为不同层次的 Linux 用户提供一个交流的平台。每次活动都会请到一些有经验的资深用户分享相关的 Linux 使用经验，创造多种多样的交流方式与途径，为校内乃至整个合肥地区的 Linux 用户提供一个交流平台。   历史活动      2014 Linux User Party 暨 Freeshell 用户交流会   2013科大LUG Linux User Party   2012科大LUG Linux User Party  ","categories": [],
+"excerpt":"Linux User Party 在于为不同层次的 Linux 用户提供一个交流的平台。每次活动都会请到一些有经验的资深用户分享相关的 Linux 使用经验，创造多种多样的交流方式与途径，为校内乃至整个合肥地区的 Linux 用户提供一个交流平台。   历史活动      2014 Linux User Party 暨 Freeshell 用户交流会   2013科大HCOI Linux User Party   2012科大HCOI Linux User Party  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/events/lup/",
 "teaser": null
 },{
-"title": "LUG 活动海报",
+"title": "HCOI 活动海报",
 "excerpt":"每周小聚展板模板      2015 白帽子信息安全竞赛      2015 LaTeX 讲座   2015_poster_clerk_ma.pdf   2014 Linux User Party     ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/events/poster/",
 "teaser": null
 },{
 "title": "Software Freedom Day",
-"excerpt":"自由软件日是在国际自由软件基金会（SFI）的领导下，由自由/开源软件爱好者自发筹集的非盈利性活动。旨在为自由/开源软件爱好者提供一个信息交流平台，以及联合各社区举办各种自由/开源软件活动。 科大 LUG 已经成功的连续几届举办了合肥站的自由软件日活动。活动得到了龙芯梦兰、龙芯俱乐部、中标软件、中科红旗、中国开源软件推进联盟、深度科技等公司、开源社区，以及合肥工业大学，安徽大学等兄弟院校的大力支持。活动邀请过多个在国内开源软件领域非常有影响力的嘉宾，如科大网络中心的张焕杰老师，北京 GUG 主席李震宁先生，上海 LUG 主席姚欣宇，从事 MIPS 开发的刘世伟先生等，带来了各种内容的主题演讲。 活动介绍 SFD，可译为“软件自由日”，顾名思义是对自由、开源软件的庆祝活动。USTC LUG 自2010年起每年举办合肥中科大站的自由软件日活动，获得了不错的效果，当然其中也离不开各个公司、兄弟院校、社团、社区的大力支持。 历史 SFD 活动记录 2020 年 SFD 2020 年 SFD 于 2020 年 9 月 26 日举办 时间: 2020 年 9 月 26 日(周六)晚上 7:00 地点: 中国科大西区 3C103 讲者 主题 资料 李威威 《PLCT 在 spike 和 qemu...","categories": [],
+"excerpt":"自由软件日是在国际自由软件基金会（SFI）的领导下，由自由/开源软件爱好者自发筹集的非盈利性活动。旨在为自由/开源软件爱好者提供一个信息交流平台，以及联合各社区举办各种自由/开源软件活动。 科大 HCOI 已经成功的连续几届举办了合肥站的自由软件日活动。活动得到了龙芯梦兰、龙芯俱乐部、中标软件、中科红旗、中国开源软件推进联盟、深度科技等公司、开源社区，以及合肥工业大学，安徽大学等兄弟院校的大力支持。活动邀请过多个在国内开源软件领域非常有影响力的嘉宾，如科大网络中心的张焕杰老师，北京 GUG 主席李震宁先生，上海 HCOI 主席姚欣宇，从事 MIPS 开发的刘世伟先生等，带来了各种内容的主题演讲。 活动介绍 SFD，可译为“软件自由日”，顾名思义是对自由、开源软件的庆祝活动。USTC HCOI 自2010年起每年举办合肥中科大站的自由软件日活动，获得了不错的效果，当然其中也离不开各个公司、兄弟院校、社团、社区的大力支持。 历史 SFD 活动记录 2020 年 SFD 2020 年 SFD 于 2020 年 9 月 26 日举办 时间: 2020 年 9 月 26 日(周六)晚上 7:00 地点: 中国科大西区 3C103 讲者 主题 资料 李威威 《PLCT 在 spike 和 qemu...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/events/sfd/",
 "teaser": null
 },{
-"title": "LUG 每周小聚",
-"excerpt":"我们曾经…… 我们曾经苦于学习 Linux 无门， 我们发现很棒的工具却难于上手， 我们想分享自己的心得却无人理会， 我们曾经四处询问却处处碰壁。 每周小聚！ 每周我们选定一个主题和一位主持， 与您一同分享使用 Linux 的心得体会， 群策群力解决令人抓耳挠腮的问题， 共同发扬 GNU 文化，提高 Linux 水平。 自 2011 年 10 月起，每个周末都有每周小聚活动，由一位同学做技术分享演讲，欢迎所有师生参与。具体时间、地点和内容会在周四发到邮件列表和瀚海星云BBS Notice/Linux 版上。 如果您希望讨论某个主题或主持小聚，欢迎加入 LUG 邮件列表 每周小聚的时间地点我们会通过 LUG 邮件列表、BBS Linux/Notice 版等处发出通知，请大家持续关注！ 每周小聚的资料在这里：https://ftp.lug.ustc.edu.cn/weekly_party/ Notice 主讲人请注意： 毋忘上传 slides，越早越好(在愿意分享 slides 的前提下) slides 的版权问题？ 在 BBS Linux 发通知时，注意打上 LUG 标签 尽早编辑本 wiki，活动时间以本...","categories": [],
+"title": "HCOI 每周小聚",
+"excerpt":"我们曾经…… 我们曾经苦于学习 Linux 无门， 我们发现很棒的工具却难于上手， 我们想分享自己的心得却无人理会， 我们曾经四处询问却处处碰壁。 每周小聚！ 每周我们选定一个主题和一位主持， 与您一同分享使用 Linux 的心得体会， 群策群力解决令人抓耳挠腮的问题， 共同发扬 GNU 文化，提高 Linux 水平。 自 2011 年 10 月起，每个周末都有每周小聚活动，由一位同学做技术分享演讲，欢迎所有师生参与。具体时间、地点和内容会在周四发到邮件列表和瀚海星云BBS Notice/Linux 版上。 如果您希望讨论某个主题或主持小聚，欢迎加入 HCOI 邮件列表 每周小聚的时间地点我们会通过 HCOI 邮件列表、BBS Linux/Notice 版等处发出通知，请大家持续关注！ 每周小聚的资料在这里：https://ftp.lug.ustc.edu.cn/weekly_party/ Notice 主讲人请注意： 毋忘上传 slides，越早越好(在愿意分享 slides 的前提下) slides 的版权问题？ 在 BBS Linux 发通知时，注意打上 HCOI 标签 尽早编辑本 wiki，活动时间以本...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/events/weeklyparty/",
 "teaser": null
 },{
-"title": "LUG@USTC 财务收支报告",
-"excerpt":"2018 年换届后的财务报告由 LUG 电子账册自动生成，不再人工更新。本页面只为历史存档目的保留。 Debian/OSS服务器维护专款 时间 收支类型 数额（￥） 原因 2005 收入 3072.5 科大Debian站募捐(其中50$按照当时汇率折合成人民币405.5元) 捐赠情况查询» 2005 支出 2620 购买新主机 2005 支出 70 购买显卡(二手) 2005 支出 260 购买新UPS电源 2005 支出 122.5 转入活动经费 2010年10月 收入 122.5 由活动经费转入 2011年1月 收入 303.11 社区捐助 方式：支付宝 当前结余（2013-01-05更新） - 425.61 - LUG 活动经费 往年收支情况概览 时间段 总收入 总支出 净收入...","categories": [],
+"title": "HCOI@USTC 财务收支报告",
+"excerpt":"2018 年换届后的财务报告由 HCOI 电子账册自动生成，不再人工更新。本页面只为历史存档目的保留。 Debian/OSS服务器维护专款 时间 收支类型 数额（￥） 原因 2005 收入 3072.5 科大Debian站募捐(其中50$按照当时汇率折合成人民币405.5元) 捐赠情况查询» 2005 支出 2620 购买新主机 2005 支出 70 购买显卡(二手) 2005 支出 260 购买新UPS电源 2005 支出 122.5 转入活动经费 2010年10月 收入 122.5 由活动经费转入 2011年1月 收入 303.11 社区捐助 方式：支付宝 当前结余（2013-01-05更新） - 425.61 - HCOI 活动经费 往年收支情况概览 时间段 总收入 总支出 净收入...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/finance/archive/",
 "teaser": null
 },{
-"title": "捐赠LUG",
-"excerpt":"如果你喜欢 USTC LUG 并希望为协会发展提供经济上的援助，可以向我们捐赠。 为了准确记载捐赠情况、确保财务规范，捐赠后请 务必向 donate@ustclug.org 发送邮件 说明以下信息，并关注财务报告中的记载是否及时、一致！ 您捐款的 日期 、 途径 、 金额 您希望留下的 捐赠者名称 （亦可指定匿名。默认为捐款渠道中记载的转账人名称） 款项用途： 通用经费 或 服务器维护专款 （默认为通用经费） 服务器维护专款单立账户，仅用于维护重要网络服务。 通用经费主要用于社团日常采购和活动开支，不会用于联谊、餐饮等与社团宗旨无关的目的，在必要时可能会转入服务器维护专款账户。 我们不推荐没有经济来源的在校生向我们捐款。 支付宝 小额捐赠推荐使用支付宝转账功能向 LUG 的负责人账号转账： 支付宝账户名称： josiemyj@gmail.com 姓名： 邱子悦 捐赠后请务必按本页顶部要求发送邮件告知我们。 学生社团无法作为组织开立银行或支付宝账户，所以需要使用个人账户收款。此账户会随社团负责人变化而变动，请注意查询最新信息。 通过校友基金会捐赠 如果您身在海外，或者需要用于个税减免的捐赠收据，您可以通过中国科大校友基金会（USTCAF）的 LUG 子基金进行捐赠。请在捐赠页面中“子基金”栏目选择“AFund”，并在注释中标明“捐赠科大LUG”。 在线捐赠页面： https://www.ustcaf.org/members/donation/prep-form 捐赠后请务必按本页顶部要求发送邮件告知我们。 通过新创基金会捐赠 如果您的捐赠金额较大（500 元以上），或者需要取得捐赠收据用于个税减免，您可以通过中国科学技术大学新创校友基金会来进行捐赠。 关于个税减免的相关信息，请访问 http://www.ustcif.org.cn/default.php/content/1448 捐赠请访问新创基金会的捐赠页面：http://www.ustcif.org.cn/WaysToGive/ 在捐赠表格中，捐赠项目请选择“其它”，并在说明处注明“为科大...","categories": [],
+"title": "捐赠HCOI",
+"excerpt":"如果你喜欢 USTC HCOI 并希望为协会发展提供经济上的援助，可以向我们捐赠。 为了准确记载捐赠情况、确保财务规范，捐赠后请 务必向 donate@ustclug.org 发送邮件 说明以下信息，并关注财务报告中的记载是否及时、一致！ 您捐款的 日期 、 途径 、 金额 您希望留下的 捐赠者名称 （亦可指定匿名。默认为捐款渠道中记载的转账人名称） 款项用途： 通用经费 或 服务器维护专款 （默认为通用经费） 服务器维护专款单立账户，仅用于维护重要网络服务。 通用经费主要用于社团日常采购和活动开支，不会用于联谊、餐饮等与社团宗旨无关的目的，在必要时可能会转入服务器维护专款账户。 我们不推荐没有经济来源的在校生向我们捐款。 支付宝 小额捐赠推荐使用支付宝转账功能向 HCOI 的负责人账号转账： 支付宝账户名称： josiemyj@gmail.com 姓名： 邱子悦 捐赠后请务必按本页顶部要求发送邮件告知我们。 学生社团无法作为组织开立银行或支付宝账户，所以需要使用个人账户收款。此账户会随社团负责人变化而变动，请注意查询最新信息。 通过校友基金会捐赠 如果您身在海外，或者需要用于个税减免的捐赠收据，您可以通过中国科大校友基金会（USTCAF）的 HCOI 子基金进行捐赠。请在捐赠页面中“子基金”栏目选择“AFund”，并在注释中标明“捐赠科大HCOI”。 在线捐赠页面： https://www.ustcaf.org/members/donation/prep-form 捐赠后请务必按本页顶部要求发送邮件告知我们。 通过新创基金会捐赠 如果您的捐赠金额较大（500 元以上），或者需要取得捐赠收据用于个税减免，您可以通过中国科学技术大学新创校友基金会来进行捐赠。 关于个税减免的相关信息，请访问 http://www.ustcif.org.cn/default.php/content/1448 捐赠请访问新创基金会的捐赠页面：http://www.ustcif.org.cn/WaysToGive/ 在捐赠表格中，捐赠项目请选择“其它”，并在说明处注明“为科大...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/finance/donate/",
 "teaser": null
@@ -276,37 +276,37 @@ var store = [{
 "teaser": null
 },{
 "title": "财务报告",
-"excerpt":"捐赠记录 捐赠方式请见 LUG 官网。 本表记载 2018 年换届后的捐赠记录，根据 LUG 电子账册自动生成。 之前的记录见历史存档。 日期 捐赠者 数额 用途 正在加载…… ${i.date} ${i.payee} ${i.amount} ${i.account} 服务器维护专款 本表记载 2018 年换届后的服务器维护专款收支记录，根据 LUG 电子账册自动生成。 之前的记录见历史存档。 由于换届前的服务器维护专款支出情况记载不明，在此将 2018 年换届时的所有捐款余额均记为服务器维护专款。 日期 数额 事由 正在加载…… ${i.date} ${i.amount} ${i.payee} 通用经费 本表记载 2018 年换届后的通用经费收支记录，根据 LUG 电子账册自动生成。 之前的记录见历史存档。 日期 数额 事由 正在加载…… ${i.date} ${i.amount} ${i.payee}...","categories": [],
+"excerpt":"捐赠记录 捐赠方式请见 HCOI 官网。 本表记载 2018 年换届后的捐赠记录，根据 HCOI 电子账册自动生成。 之前的记录见历史存档。 日期 捐赠者 数额 用途 正在加载…… ${i.date} ${i.payee} ${i.amount} ${i.account} 服务器维护专款 本表记载 2018 年换届后的服务器维护专款收支记录，根据 HCOI 电子账册自动生成。 之前的记录见历史存档。 由于换届前的服务器维护专款支出情况记载不明，在此将 2018 年换届时的所有捐款余额均记为服务器维护专款。 日期 数额 事由 正在加载…… ${i.date} ${i.amount} ${i.payee} 通用经费 本表记载 2018 年换届后的通用经费收支记录，根据 HCOI 电子账册自动生成。 之前的记录见历史存档。 日期 数额 事由 正在加载…… ${i.date} ${i.amount} ${i.payee}...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/finance/",
 "teaser": null
 },{
 "title": "友情链接",
-"excerpt":"合作伙伴 烧饼博客 Coding 云端开发平台 深度操作系统 Xtom 中国科学技术大学图书馆 中国科学技术大学网络信息中心 中国科学技术大学信息安全俱乐部 姊妹社团 清华大学 TUNA 协会 开源社区 瀚海星云 BBS Linux 讨论区 Arch Linux 中文社区 Fedora 中文社区 开源工场 各地 LUG 地区 邮件列表 Homepage 上海 Shanghai Linux User Group SHLUG 北京 Beijing GNU/Linux User Group BJLUG 成都 Chengdu Linux User Group CDLUG 重庆 Chongqing Linux...","categories": [],
+"excerpt":"合作伙伴 烧饼博客 Coding 云端开发平台 深度操作系统 Xtom 中国科学技术大学图书馆 中国科学技术大学网络信息中心 中国科学技术大学信息安全俱乐部 姊妹社团 清华大学 TUNA 协会 开源社区 瀚海星云 BBS Linux 讨论区 Arch Linux 中文社区 Fedora 中文社区 开源工场 各地 HCOI 地区 邮件列表 Homepage 上海 Shanghai Linux User Group SHHCOI 北京 Beijing GNU/Linux User Group BJHCOI 成都 Chengdu Linux User Group CDHCOI 重庆 Chongqing Linux...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/links/",
 "teaser": null
 },{
-"title": "LUG邮件列表",
-"excerpt":"USTC LUG中的技术交流和活动通知通常都在邮件列表中。如果没有加入邮件列表，怎么好意思说自己是USTC LUG的一员呢？ 邮件列表存档 USTC LUG邮件列表所有帖子都永久存档、公开可见： http://archive.lug.ustc.edu.cn/ http://dir.gmane.org/gmane.user-groups.linux.ustclug https://groups.google.com/forum/#!forum/ustc_lug 如何加入 加入邮件列表的方法很简单：发送一封邮件到 ustc_lug+subscribe AT googlegroups.com （请把AT替换成@）某些邮箱不支持邮箱地址中的加号“+”，此时推荐使用Gmail。 推荐使用Gmail ，它有两个优点： threading（线索）把一封邮件及其回复显示在同一页面。LUG邮件列表中的一个主题常常引发数十个回复，此时threading可以不使收件箱被“刷屏”。如果把科大邮箱比作瀚海星云BBS的普通模式，那么Gmail的线索就是BBS的“同主题阅读”模式，也是其他论坛的常用显示方式。 强大的过滤器（filter）和标签（tag）可以使你轻松对邮件进行分类。例如，我们可以对不同的邮件列表（如果您订阅了多个）应用不同的标签，还可以设置是否在“收件箱”内显示。 如果您需要使用科大邮箱，可以在科大邮箱中设置自动转发到Gmail，或者在Gmail中设置从科大邮箱定时POP3取信。这样只需登录 Gmail，就能同时收 Gmail 和科大邮箱的邮件了。 如何回复 直接回复就行了！回复会被发到 ustc_lug AT googlegroups.com，然后邮件列表的提供商 (Google) 会把这封邮件转发给所有加入邮件列表的人。新人发布回复时需要审核，请耐心等待。 细心的同学可能注意到了：“From”一栏填的是发件人的私人邮件地址啊，为什么回复会被送到邮件列表呢？那是因为邮件中设置了 Reply-To: ustc_lug AT googlegroups.com 。如果你在用 Gmail，可以用“Show Original”功能来了解邮件协议的更多信息。 尽量少用附件，以免占用收件人过多的邮箱空间。不要使用闭源格式的附件。如果需要附件，建议上传到 home.ustc.edu.cn 的个人主页空间或者 rec.ustc.edu.cn 的网盘空间，然后贴出链接。 尽量用纯文本，少用 HTML 格式（如果客户端支持的话） 回复较长的邮件时，引文应该选择性地引用，以便让其他人知道在评论的是哪一段。 对于比较严肃的技术讨论，请尽量不要转移话题。如果确实要离题，请发一个新主题，改标题为“新标题 (was: 原标题)”。...","categories": [],
+"title": "HCOI邮件列表",
+"excerpt":"USTC HCOI中的技术交流和活动通知通常都在邮件列表中。如果没有加入邮件列表，怎么好意思说自己是USTC HCOI的一员呢？ 邮件列表存档 USTC HCOI邮件列表所有帖子都永久存档、公开可见： http://archive.lug.ustc.edu.cn/ http://dir.gmane.org/gmane.user-groups.linux.ustclug https://groups.google.com/forum/#!forum/ustc_lug 如何加入 加入邮件列表的方法很简单：发送一封邮件到 ustc_lug+subscribe AT googlegroups.com （请把AT替换成@）某些邮箱不支持邮箱地址中的加号“+”，此时推荐使用Gmail。 推荐使用Gmail ，它有两个优点： threading（线索）把一封邮件及其回复显示在同一页面。HCOI邮件列表中的一个主题常常引发数十个回复，此时threading可以不使收件箱被“刷屏”。如果把科大邮箱比作瀚海星云BBS的普通模式，那么Gmail的线索就是BBS的“同主题阅读”模式，也是其他论坛的常用显示方式。 强大的过滤器（filter）和标签（tag）可以使你轻松对邮件进行分类。例如，我们可以对不同的邮件列表（如果您订阅了多个）应用不同的标签，还可以设置是否在“收件箱”内显示。 如果您需要使用科大邮箱，可以在科大邮箱中设置自动转发到Gmail，或者在Gmail中设置从科大邮箱定时POP3取信。这样只需登录 Gmail，就能同时收 Gmail 和科大邮箱的邮件了。 如何回复 直接回复就行了！回复会被发到 ustc_lug AT googlegroups.com，然后邮件列表的提供商 (Google) 会把这封邮件转发给所有加入邮件列表的人。新人发布回复时需要审核，请耐心等待。 细心的同学可能注意到了：“From”一栏填的是发件人的私人邮件地址啊，为什么回复会被送到邮件列表呢？那是因为邮件中设置了 Reply-To: ustc_lug AT googlegroups.com 。如果你在用 Gmail，可以用“Show Original”功能来了解邮件协议的更多信息。 尽量少用附件，以免占用收件人过多的邮箱空间。不要使用闭源格式的附件。如果需要附件，建议上传到 home.ustc.edu.cn 的个人主页空间或者 rec.ustc.edu.cn 的网盘空间，然后贴出链接。 尽量用纯文本，少用 HTML 格式（如果客户端支持的话） 回复较长的邮件时，引文应该选择性地引用，以便让其他人知道在评论的是哪一段。 对于比较严肃的技术讨论，请尽量不要转移话题。如果确实要离题，请发一个新主题，改标题为“新标题 (was: 原标题)”。...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/mailinglist/",
 "teaser": null
 },{
 "title": "HCOI 负责人",
-"excerpt":"公共联系方式 联系我们 主要负责人 职务 姓名 会长 (CEO) 唐文杰 副会长 (CTO) - 副会长 (COO) - HCOI项目负责人 注意：部分信息已过时。 项目 简介 负责人 mirrors 科大开源软件镜像 cuihao, zsj, knight, yifan PXE 科大网络启动服务 cuihao 图书馆查询机 基于PXE网络启动 cuihao, hosiet HCOI 主页 (this wiki) hosiet 邮件列表 LUG邮件列表 stephen, yifan SNS 人人, G+, etc hosiet FTP https://ftp.ustclug.org/ hosiet, yifan...","categories": [],
+"excerpt":"公共联系方式 联系我们 主要负责人 职务 姓名 会长 (CEO) 唐文杰 副会长 (CTO) - 副会长 (COO) - HCOI项目负责人 注意：部分信息已过时。 项目 简介 负责人 mirrors 科大开源软件镜像 cuihao, zsj, knight, yifan PXE 科大网络启动服务 cuihao 图书馆查询机 基于PXE网络启动 cuihao, hosiet HCOI 主页 (this wiki) hosiet 邮件列表 HCOI邮件列表 stephen, yifan SNS 人人, G+, etc hosiet FTP https://ftp.ustclug.org/ hosiet, yifan...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/person-in-charge/",
 "teaser": null
 },{
 "title": "资源导航",
-"excerpt":"本站其他内容   这里的链接都指向本站（非wiki）的其他内容。     LUG 官方内容   Linux 入门公开课（试验版）   Linux 入门公开课是2014年春社团活动的成果，包含当时社团成员的授课录像与演示文稿。   由于是第一次试验，内容多有不足，请多包涵。   LUG FTP   LUG FTP 是社团内部的 FTP 服务，主要用来存储历史文件、存放学习资料。LUG FTP 的用户名与密码均为 ftp。   LUG FTP 也可通过 HTTP 只读访问文件，请点这里。请注意 ebook 目录暂时不提供 HTTP 访问。     友情托管   winland0704 在 LUG 主页服务器上托管了以下两个文档项目。   openSUSE 非官方指南   openSUSE 非官方指南为官方指南的非正式中译版本，可供参考。   Qt 编程指南   Qt 编程指南 是作者正在写作中的一本书。    *[FTP]: File Transfer Protocol  ","categories": [],
+"excerpt":"本站其他内容   这里的链接都指向本站（非wiki）的其他内容。     HCOI 官方内容   Linux 入门公开课（试验版）   Linux 入门公开课是2014年春社团活动的成果，包含当时社团成员的授课录像与演示文稿。   由于是第一次试验，内容多有不足，请多包涵。   HCOI FTP   HCOI FTP 是社团内部的 FTP 服务，主要用来存储历史文件、存放学习资料。HCOI FTP 的用户名与密码均为 ftp。   HCOI FTP 也可通过 HTTP 只读访问文件，请点这里。请注意 ebook 目录暂时不提供 HTTP 访问。     友情托管   winland0704 在 HCOI 主页服务器上托管了以下两个文档项目。   openSUSE 非官方指南   openSUSE 非官方指南为官方指南的非正式中译版本，可供参考。   Qt 编程指南   Qt 编程指南 是作者正在写作中的一本书。    *[FTP]: File Transfer Protocol  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/resources/",
 "teaser": null
 },{
-"title": "LUG@USTC FTP 文件存档",
-"excerpt":"简介 LUG FTP 对应域名为 ftp.lug.ustc.edu.cn。 注意：直接在浏览器中输入这个域名可能会被识别为 FTP 协议。 这里存储社团历史活动资料的存档，以及一些与 Linux、开源软件、编程等计算机科学与技术相关的学习资料。 访问 使用 HTTP 协议 站点链接：https://ftp.lug.ustc.edu.cn 支持匿名只读访问。请注意部分目录无法使用 HTTP 访问。 使用 FTP 协议 站点链接：ftp://ftp.lug.ustc.edu.cn 不支持 FTP 匿名访问。用户须使用公开帐号登陆至服务器。 用户名为 ftp。请联系管理员以了解详细信息。 使用 SFTP 协议 用户名为 ftp。请联系管理员以了解详细信息。 使用 AFP 协议 AFP (Apple Filing Protocol) 地址： afp://ftp.lug.ustc.edu.cn/ ，选择 Connect As Guest 即可，对所有文件拥有读取权限。 上传 管理员用户 如需使用 FTP...","categories": [],
+"title": "HCOI@USTC FTP 文件存档",
+"excerpt":"简介 HCOI FTP 对应域名为 ftp.lug.ustc.edu.cn。 注意：直接在浏览器中输入这个域名可能会被识别为 FTP 协议。 这里存储社团历史活动资料的存档，以及一些与 Linux、开源软件、编程等计算机科学与技术相关的学习资料。 访问 使用 HTTP 协议 站点链接：https://ftp.lug.ustc.edu.cn 支持匿名只读访问。请注意部分目录无法使用 HTTP 访问。 使用 FTP 协议 站点链接：ftp://ftp.lug.ustc.edu.cn 不支持 FTP 匿名访问。用户须使用公开帐号登陆至服务器。 用户名为 ftp。请联系管理员以了解详细信息。 使用 SFTP 协议 用户名为 ftp。请联系管理员以了解详细信息。 使用 AFP 协议 AFP (Apple Filing Protocol) 地址： afp://ftp.lug.ustc.edu.cn/ ，选择 Connect As Guest 即可，对所有文件拥有读取权限。 上传 管理员用户 如需使用 FTP...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/services/ftp/",
 "teaser": null
@@ -318,43 +318,43 @@ var store = [{
 "teaser": null
 },{
 "title": "网络服务列表",
-"excerpt":"S 级服务 开源镜像站（HTTP 访问）：https://mirrors.ustc.edu.cn 权威 DNS：ns-a.ustclug.org. ns-b.ustclug.org. ns-c.ustclug.org. A 级服务 代码托管平台：https://git.lug.ustc.edu.cn 回校访问服务 防污染 DNS（校内） B 级服务 主页 (本wiki)：https://lug.ustc.edu.cn 网络启动：pxe.ustc.edu.cn 图书馆透明计算系统 VPN 在线申请系统（校内） 轻量级网络加速服务（校内） 开源镜像站（定时同步；rsync、FTP访问；帮助页面）：https://mirrors.ustc.edu.cn 反向代理：*.proxy.ustclug.org 服务器统一认证：ldap.lug.ustc.edu.cn 内网 VPN 旧的 LUG Planet（社团博客）：https://planet.ustclug.org C 级服务 LUG FTP：https://ftp.lug.ustc.edu.cn Ganglia 监控：https://status.ustclug.org Grafana 监控：https://monitor.ustclug.org LDAP 配置管理系统（GOsa²） 服务等级与服务标准 S 级：最优先保障服务可用性，24 小时故障监控，故障自动转移 A 级：优先保障服务可用性，24 小时故障监控，每日备份 B 级：关键数据备份...","categories": [],
+"excerpt":"S 级服务 开源镜像站（HTTP 访问）：https://mirrors.ustc.edu.cn 权威 DNS：ns-a.ustclug.org. ns-b.ustclug.org. ns-c.ustclug.org. A 级服务 代码托管平台：https://git.lug.ustc.edu.cn 回校访问服务 防污染 DNS（校内） B 级服务 主页 (本wiki)：https://lug.ustc.edu.cn 网络启动：pxe.ustc.edu.cn 图书馆透明计算系统 VPN 在线申请系统（校内） 轻量级网络加速服务（校内） 开源镜像站（定时同步；rsync、FTP访问；帮助页面）：https://mirrors.ustc.edu.cn 反向代理：*.proxy.ustclug.org 服务器统一认证：ldap.lug.ustc.edu.cn 内网 VPN 旧的 HCOI Planet（社团博客）：https://planet.ustclug.org C 级服务 HCOI FTP：https://ftp.lug.ustc.edu.cn Ganglia 监控：https://status.ustclug.org Grafana 监控：https://monitor.ustclug.org LDAP 配置管理系统（GOsa²） 服务等级与服务标准 S 级：最优先保障服务可用性，24 小时故障监控，故障自动转移 A 级：优先保障服务可用性，24 小时故障监控，每日备份 B 级：关键数据备份...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/services/",
 "teaser": null
 },{
 "title": "图书馆查询机简介",
-"excerpt":"图书馆查询机，顾名思义，是位于图书馆内的一些用来查询图书所在位置的计算机。USTC LUG 一直以来对图书馆查询机系统进行着操作系统及软件上的维护。   历史沿革   现状   使用指南   技术细节   图书馆查询机系统   Github 项目   查询机运行状况监控：图书馆查询机状态  ","categories": [],
+"excerpt":"图书馆查询机，顾名思义，是位于图书馆内的一些用来查询图书所在位置的计算机。USTC HCOI 一直以来对图书馆查询机系统进行着操作系统及软件上的维护。   历史沿革   现状   使用指南   技术细节   图书馆查询机系统   Github 项目   查询机运行状况监控：图书馆查询机状态  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/services/lib/",
 "teaser": null
 },{
 "title": "开源软件镜像服务",
-"excerpt":"科大 LUG 自成立起便在 2003 年通过 BBS 网上筹款的方式搭建了当时教育网内极少数的几个 Debian GNU/Linux 的镜像源（debian.ustc.edu.cn），随后又在其上添加了 Ubuntu Linux 的镜像。2008年，借助吴峰光师兄捐助的机器，搭建了科大的开源镜像服务器（oss.ustc.edu.cn），以吸纳更多的开源软件和 Linux 发行版。尽管如此，我们的服务器仍然有些不堪重负，服务供不应求。   2010 年底，在网络中心张焕杰老师的帮助下，我们获得了新的服务器，遂将之前两个镜像站的资源以及张老师自己搭建的 CentOS Linux 镜像整合到一起，形成了“科大镜像站”（mirrors.ustc.edu.cn）。新网站正式对外发布时，好评如潮。随后我们又成功申请到了Debian GNU/Linux 的中国官方镜像资格认证等多个官方镜像资格认证。   我们将一如既往的做好镜像服务器的维护工作，争取为大家提供更新更好的服务，使参与维护的同学得到更好的锻炼。   详细介绍     mirrors 首页 科大源使用帮助  ","categories": [],
+"excerpt":"科大 HCOI 自成立起便在 2003 年通过 BBS 网上筹款的方式搭建了当时教育网内极少数的几个 Debian GNU/Linux 的镜像源（debian.ustc.edu.cn），随后又在其上添加了 Ubuntu Linux 的镜像。2008年，借助吴峰光师兄捐助的机器，搭建了科大的开源镜像服务器（oss.ustc.edu.cn），以吸纳更多的开源软件和 Linux 发行版。尽管如此，我们的服务器仍然有些不堪重负，服务供不应求。   2010 年底，在网络中心张焕杰老师的帮助下，我们获得了新的服务器，遂将之前两个镜像站的资源以及张老师自己搭建的 CentOS Linux 镜像整合到一起，形成了“科大镜像站”（mirrors.ustc.edu.cn）。新网站正式对外发布时，好评如潮。随后我们又成功申请到了Debian GNU/Linux 的中国官方镜像资格认证等多个官方镜像资格认证。   我们将一如既往的做好镜像服务器的维护工作，争取为大家提供更新更好的服务，使参与维护的同学得到更好的锻炼。   详细介绍     mirrors 首页 科大源使用帮助  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/services/mirrors/",
 "teaser": null
 },{
 "title": "网络启动服务",
-"excerpt":"中国科学技术大学自2005年起，由 USTC LUG 发起，开始对校园网内提供网络启动服务（以下简称 PXE 服务）。校园网内的师生可以设置电脑通过网络引导启动，进行安装 Linux、体验 Linux、维护本机系统等操作，此外，东、西区图书馆的查询机系统亦是通过 PXE 启动引导。PXE 服务为校内师生带来了极大的便利。   随着我校网络设施的不断升级和发展，网络应用在科研工作和日常生活中发挥着日益重要的作用。同时，PXE相关的技术在这些年中也有了很大的发展，可以为大家提供更多更实用的服务。   PXE 服务使用简介  ","categories": [],
+"excerpt":"中国科学技术大学自2005年起，由 USTC HCOI 发起，开始对校园网内提供网络启动服务（以下简称 PXE 服务）。校园网内的师生可以设置电脑通过网络引导启动，进行安装 Linux、体验 Linux、维护本机系统等操作，此外，东、西区图书馆的查询机系统亦是通过 PXE 启动引导。PXE 服务为校内师生带来了极大的便利。   随着我校网络设施的不断升级和发展，网络应用在科研工作和日常生活中发挥着日益重要的作用。同时，PXE相关的技术在这些年中也有了很大的发展，可以为大家提供更多更实用的服务。   PXE 服务使用简介  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/services/pxe/",
 "teaser": null
 },{
-"title": "LUG 网络服务总则",
-"excerpt":"〇、总则 中国科学技术大学 Linux 用户协会（下称 LUG 或“我们”）向中国科大师生和 Linux 社区提供了一系列网络服务。用户在使用 LUG 网络服务之前，应当仔细阅读并同意本文各项条款。 除非相关网络服务的服务条款特别说明，否则本文各项规则适用于 LUG 提供的所有网络服务。这些服务包括但不限于： USTC blog space OpenVZ 虚拟主机服务（Freeshell） 代码托管服务（GitLab） 虚拟专用网络服务（OpenVPN） 软件源镜像（Mirrors） 中国科学技术大学网络启动服务（PXE） Time Machine 服务（TimeMachine） 用户开始使用 LUG 网络服务时，即视为无条件同意本规则和其他相关条款。 一、服务承诺 LUG 及其成员的行为受中华人民共和国法律法规、中国科学技术大学校规校纪的约束。 LUG 网络服务均为非营利性，我们不会以任何名义向用户强制收取任何费用。 我们会尽力保证服务稳定，但不对服务质量作任何保证。 我们承诺不会主动将用户提交的隐私数据泄露给第三方，用户隐私受到法律保护。 对用户通过 LUG 网络服务发表的合法原创内容，其著作权属于用户。 当 LUG 网络服务出现重大变更时，我们会通过用户提供的联系方式通知用户。 二、用户义务 用户不得利用 LUG 服务从事任何违反中华人民共和国法律法规、中国科学技术大学校规校纪和社会公共道德的活动。 未经 LUG 管理人员允许，用户不得利用 LUG 服务进行任何营利性活动。...","categories": [],
+"title": "HCOI 网络服务总则",
+"excerpt":"〇、总则 中国科学技术大学 Linux 用户协会（下称 HCOI 或“我们”）向中国科大师生和 Linux 社区提供了一系列网络服务。用户在使用 HCOI 网络服务之前，应当仔细阅读并同意本文各项条款。 除非相关网络服务的服务条款特别说明，否则本文各项规则适用于 HCOI 提供的所有网络服务。这些服务包括但不限于： USTC blog space OpenVZ 虚拟主机服务（Freeshell） 代码托管服务（GitLab） 虚拟专用网络服务（OpenVPN） 软件源镜像（Mirrors） 中国科学技术大学网络启动服务（PXE） Time Machine 服务（TimeMachine） 用户开始使用 HCOI 网络服务时，即视为无条件同意本规则和其他相关条款。 一、服务承诺 HCOI 及其成员的行为受中华人民共和国法律法规、中国科学技术大学校规校纪的约束。 HCOI 网络服务均为非营利性，我们不会以任何名义向用户强制收取任何费用。 我们会尽力保证服务稳定，但不对服务质量作任何保证。 我们承诺不会主动将用户提交的隐私数据泄露给第三方，用户隐私受到法律保护。 对用户通过 HCOI 网络服务发表的合法原创内容，其著作权属于用户。 当 HCOI 网络服务出现重大变更时，我们会通过用户提供的联系方式通知用户。 二、用户义务 用户不得利用 HCOI 服务从事任何违反中华人民共和国法律法规、中国科学技术大学校规校纪和社会公共道德的活动。 未经 HCOI 管理人员允许，用户不得利用 HCOI 服务进行任何营利性活动。...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/services/rules/",
 "teaser": null
 },{
-"title": "LUG 宣传账号一览",
-"excerpt":"LUG1) 已在各个平台上建立了宣传用账号。本页面旨在对 SNS 账号使用情况及信息交流平台进行一定的整理。 正在维护 平台/账号类型 启用时间 名称 维护者 备注 Google groups ? ustc_lug@googlegroups.com 李博杰   IRC 2014-04-01 #ustc_lug 张光宇 Freenode QQ群 2014-03-31 USTC_Linux 崔灏 号码：334011318 QQ群 2015-05-27 USTC Linux User Group 崔灏 号码：640650279，限实名校内学生，暂为邀请制           Twitter 2010-10-28 @ustclug 杨博远   Google+ 信息页 2014-08-24 USTC LUG 张光宇、王子浩...","categories": [],
+"title": "HCOI 宣传账号一览",
+"excerpt":"HCOI1) 已在各个平台上建立了宣传用账号。本页面旨在对 SNS 账号使用情况及信息交流平台进行一定的整理。 正在维护 平台/账号类型 启用时间 名称 维护者 备注 Google groups ? ustc_lug@googlegroups.com 李博杰   IRC 2014-04-01 #ustc_lug 张光宇 Freenode QQ群 2014-03-31 USTC_Linux 崔灏 号码：334011318 QQ群 2015-05-27 USTC Linux User Group 崔灏 号码：640650279，限实名校内学生，暂为邀请制           Twitter 2010-10-28 @ustclug 杨博远   Google+ 信息页 2014-08-24 USTC HCOI 张光宇、王子浩...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/lug/sns/",
 "teaser": null
 },{
 "title": "开源镜像使用帮助列表",
-"excerpt":"此处的帮助文档已经废弃，新的内容请访问 https://mirrors.ustc.edu.cn/help/     科大镜像源使用帮助由科大 LUG 成员与许多热心的朋友们共同编写。   本页面及各镜像源帮助页面源代码现托管在 GitHub 上，欢迎各位协助完善。 如果您有添加新镜像的建议与需求，请在 GitHub 上提交 issue.     科大开源软件镜像服务简介  ","categories": [],
+"excerpt":"此处的帮助文档已经废弃，新的内容请访问 https://mirrors.ustc.edu.cn/help/     科大镜像源使用帮助由科大 HCOI 成员与许多热心的朋友们共同编写。   本页面及各镜像源帮助页面源代码现托管在 GitHub 上，欢迎各位协助完善。 如果您有添加新镜像的建议与需求，请在 GitHub 上提交 issue.     科大开源软件镜像服务简介  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/mirrors/help/",
 "teaser": null
@@ -696,7 +696,7 @@ var store = [{
 "teaser": null
 },{
 "title": "ustclug 自建软件源使用帮助",
-"excerpt":"收录架构   i386, amd64, armhf   收录版本   针对Debian Jessie挑选的部分软件，版本按需确定。   使用说明      编辑sources.list文件：   snippet.bash   echo deb https://mirrors.ustc.edu.cn/ustclug ustclug main | sudo tee /etc/apt/sources.list.d/ustclug.list      使用apt-key add添加缺失的公钥：   snippet.bash   wget -q https://mirrors.ustc.edu.cn/ustclug/ustclug.asc -O - | sudo apt-key add -      在apt update后即可正常使用。   注意 ：LUG@USTC对其中的软件包的来源不做任何保证，请谨慎使用。   相关链接   无  ","categories": [],
+"excerpt":"收录架构   i386, amd64, armhf   收录版本   针对Debian Jessie挑选的部分软件，版本按需确定。   使用说明      编辑sources.list文件：   snippet.bash   echo deb https://mirrors.ustc.edu.cn/ustclug ustclug main | sudo tee /etc/apt/sources.list.d/ustclug.list      使用apt-key add添加缺失的公钥：   snippet.bash   wget -q https://mirrors.ustc.edu.cn/ustclug/ustclug.asc -O - | sudo apt-key add -      在apt update后即可正常使用。   注意 ：HCOI@USTC对其中的软件包的来源不做任何保证，请谨慎使用。   相关链接   无  ","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/mirrors/help/ustclug/",
 "teaser": null
@@ -750,7 +750,7 @@ var store = [{
 "teaser": null
 },{
 "title": "中国科学技术大学开源软件镜像",
-"excerpt":"mirrors.ustc.edu.cn 由中国科学技术大学、中国科学技术大学网络信息中心支持，USTC LUG 维护。 机器域名 IPv4/v6: mirrors.ustc.edu.cn （能解析出教育网/电信/移动/v6地址） v4-only: ipv4.mirrors.ustc.edu.cn （能解析出教育网/电信/移动地址） v6-only: ipv6.mirrors.ustc.edu.cn 在有些地方 DNS 会解析出电信地址，但使用教育网地址访问更快，这时可以通过修改 hosts 指定强制使用教育网地址访问。 教育网IP：202.38.95.110 电 信IP：202.141.160.110 移 动IP：202.141.176.110 IPv6：2001:da8:d800:95::110 支持的访问方式 http、https、ftp rsync - 部分 为什么？ 提供的服务 请访问 mirrors 主页以获取完整列表。 使用帮助 请使用开源镜像使用帮助列表，或点击主页源列表旁边的“Help”链接。 欢迎您协助我们更新使用帮助，请访问 LUG 的 GitHub 项目。我们对您的帮助表示感谢。 状态监控 在首页点击页面上方的同步状态链接，可以查看当前各镜像的同步状态，包括 成功与否/上游源/镜像体积等。 大家如果知道更好（更新、更快）的上游源，请联系我们。 如果同步出现故障，服务器的管理员会收到邮件通知，以尽快处理，所以大家看到状态 监控页面中有显示同步失败的条目时，无需联系我们。 如果同步状态上显示同步正常，但实际使用过程中发现镜像有问题，请联系我们。 服务器维护文档 Bad...","categories": [],
+"excerpt":"mirrors.ustc.edu.cn 由中国科学技术大学、中国科学技术大学网络信息中心支持，USTC HCOI 维护。 机器域名 IPv4/v6: mirrors.ustc.edu.cn （能解析出教育网/电信/移动/v6地址） v4-only: ipv4.mirrors.ustc.edu.cn （能解析出教育网/电信/移动地址） v6-only: ipv6.mirrors.ustc.edu.cn 在有些地方 DNS 会解析出电信地址，但使用教育网地址访问更快，这时可以通过修改 hosts 指定强制使用教育网地址访问。 教育网IP：202.38.95.110 电 信IP：202.141.160.110 移 动IP：202.141.176.110 IPv6：2001:da8:d800:95::110 支持的访问方式 http、https、ftp rsync - 部分 为什么？ 提供的服务 请访问 mirrors 主页以获取完整列表。 使用帮助 请使用开源镜像使用帮助列表，或点击主页源列表旁边的“Help”链接。 欢迎您协助我们更新使用帮助，请访问 HCOI 的 GitHub 项目。我们对您的帮助表示感谢。 状态监控 在首页点击页面上方的同步状态链接，可以查看当前各镜像的同步状态，包括 成功与否/上游源/镜像体积等。 大家如果知道更好（更新、更快）的上游源，请联系我们。 如果同步出现故障，服务器的管理员会收到邮件通知，以尽快处理，所以大家看到状态 监控页面中有显示同步失败的条目时，无需联系我们。 如果同步状态上显示同步正常，但实际使用过程中发现镜像有问题，请联系我们。 服务器维护文档 Bad...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/server/mirrors/",
 "teaser": null
@@ -768,7 +768,7 @@ var store = [{
 "teaser": null
 },{
 "title": "《程序员的自我修养》读书笔记",
-"excerpt":"李博杰 (bojieli AT gmail DOT com) 最后修改：2012-06-01 近来在郭家华的推荐下，读了LUG书库的《程序员的自我修养——链接、装载与库》一书，有种相见恨晚的感觉。然而快到期末考试了，没有时间把全书读完，因此只写了一部分。 我读技术类图书有个习惯，或者说是毛病：经常是先想想如果是自己设计这个系统会采用怎样的一种机制，然后再去读书中所讲的实现方式。由于计算机应用系统的设计不是什么算法难题，一般都能设计出一套像模像样的机制；然而从结构的优雅性角度考虑，我设计的机制有时充斥着一些与UNIX文化不符的元素。本文撷取链接、装载与库中的几个设计点，与大家分享我个人的想法与UNIX/Linux大师的设计。 There are two ways of constructing a software design. One is to make it so simple that there are obviously no deficiencies; the other is to make it so complicated that there are no obvious deficiencies. The first method is far...","categories": [],
+"excerpt":"李博杰 (bojieli AT gmail DOT com) 最后修改：2012-06-01 近来在郭家华的推荐下，读了HCOI书库的《程序员的自我修养——链接、装载与库》一书，有种相见恨晚的感觉。然而快到期末考试了，没有时间把全书读完，因此只写了一部分。 我读技术类图书有个习惯，或者说是毛病：经常是先想想如果是自己设计这个系统会采用怎样的一种机制，然后再去读书中所讲的实现方式。由于计算机应用系统的设计不是什么算法难题，一般都能设计出一套像模像样的机制；然而从结构的优雅性角度考虑，我设计的机制有时充斥着一些与UNIX文化不符的元素。本文撷取链接、装载与库中的几个设计点，与大家分享我个人的想法与UNIX/Linux大师的设计。 There are two ways of constructing a software design. One is to make it so simple that there are obviously no deficiencies; the other is to make it so complicated that there are no obvious deficiencies. The first method is far...","categories": [],
 "tags": [],
 "url": "https://we.sakura.bio//wiki/user/boj/linkers-and-loaders/",
 "teaser": null

@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://we.sakura.bio//feed/planet.xml" rel="self" type="application/atom+xml" /><link href="https://we.sakura.bio//" rel="alternate" type="text/html" /><updated>2020-10-05T19:09:16+08:00</updated><id>https://we.sakura.bio//feed/planet.xml</id><title type="html">HCOI | Planet</title><subtitle>HUNAN</subtitle><author><name>HCOI</name></author><entry><title type="html">Hello! LUG Planet</title><link href="https://we.sakura.bio//planet/2018/08/hello-lug-planet/" rel="alternate" type="text/html" title="Hello! LUG Planet" /><published>2018-08-07T00:00:00+08:00</published><updated>2020-10-03T20:02:33+08:00</updated><id>https://we.sakura.bio//planet/2018/08/hello-lug-planet</id><content type="html" xml:base="https://we.sakura.bio//planet/2018/08/hello-lug-planet/">&lt;p&gt;欢迎大家来到 LUG Planet！这是一个刚刚被发现的新星球，百废待兴。本文是 LUG Planet 的说明书，在你入驻之前，不妨先驻足欣赏一下这片风景。😀&lt;/p&gt;
-        &lt;h2 id=&quot;lug-planet-是什么&quot;&gt;LUG Planet 是什么？&lt;/h2&gt;
-        &lt;p&gt;LUG Planet 是……&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://we.sakura.bio//feed/planet.xml" rel="self" type="application/atom+xml" /><link href="https://we.sakura.bio//" rel="alternate" type="text/html" /><updated>2020-10-16T11:24:29+08:00</updated><id>https://we.sakura.bio//feed/planet.xml</id><title type="html">HCOI | Planet</title><subtitle>HUNAN</subtitle><author><name>HCOI</name></author><entry><title type="html">Hello! HCOI Planet</title><link href="https://we.sakura.bio//planet/2018/08/hello-lug-planet/" rel="alternate" type="text/html" title="Hello! HCOI Planet" /><published>2018-08-07T00:00:00+08:00</published><updated>2020-10-16T11:12:47+08:00</updated><id>https://we.sakura.bio//planet/2018/08/hello-lug-planet</id><content type="html" xml:base="https://we.sakura.bio//planet/2018/08/hello-lug-planet/">&lt;p&gt;欢迎大家来到 HCOI Planet！这是一个刚刚被发现的新星球，百废待兴。本文是 HCOI Planet 的说明书，在你入驻之前，不妨先驻足欣赏一下这片风景。😀&lt;/p&gt;
+        &lt;h2 id=&quot;hcoi-planet-是什么&quot;&gt;HCOI Planet 是什么？&lt;/h2&gt;
+        &lt;p&gt;HCOI Planet 是……&lt;/p&gt;
         &lt;ul&gt;
-        &lt;li&gt;由 USTCLUG 负责运营和管理的&lt;strong&gt;群体博客&lt;/strong&gt;。&lt;/li&gt;
+        &lt;li&gt;由 USTCHCOI 负责运营和管理的&lt;strong&gt;群体博客&lt;/strong&gt;。&lt;/li&gt;
         &lt;li&gt;目标读者与参与者：
         &lt;ol&gt;
-        &lt;li&gt;USTCLUG 会员；&lt;/li&gt;
-        &lt;li&gt;认同 USTCLUG 理念的同好；&lt;/li&gt;
-        &lt;li&gt;希望积极参加 USTCLUG 线上活动的朋友。&lt;/li&gt;
+        &lt;li&gt;USTCHCOI 会员；&lt;/li&gt;
+        &lt;li&gt;认同 USTCHCOI 理念的同好；&lt;/li&gt;
+        &lt;li&gt;希望积极参加 USTCHCOI 线上活动的朋友。&lt;/li&gt;
         &lt;/ol&gt;
         &lt;/li&gt;
-        &lt;li&gt;主要话题为 USTCLUG 社团的活动覆盖范围：
+        &lt;li&gt;主要话题为 USTCHCOI 社团的活动覆盖范围：
         &lt;ol&gt;
         &lt;li&gt;UNIX、Linux 及自由/开源软件；&lt;/li&gt;
         &lt;li&gt;Windows, Microsoft 新技术；&lt;/li&gt;
@@ -19,11 +19,11 @@
         &lt;/ol&gt;
         &lt;/li&gt;
         &lt;/ul&gt;
-        &lt;p&gt;LUG Planet 是精神上的 &lt;a href=&quot;/wiki/linux_digest&quot;&gt;Linux 文摘&lt;/a&gt; 计划的延续。我们认可这个群策群力式的知识汇集的理念，但使用更方便和更自由的形式，从而鼓励大家能更积极地参与到这个项目中来。&lt;/p&gt;
+        &lt;p&gt;HCOI Planet 是精神上的 &lt;a href=&quot;/wiki/linux_digest&quot;&gt;Linux 文摘&lt;/a&gt; 计划的延续。我们认可这个群策群力式的知识汇集的理念，但使用更方便和更自由的形式，从而鼓励大家能更积极地参与到这个项目中来。&lt;/p&gt;
         &lt;h2 id=&quot;订阅我们&quot;&gt;订阅我们&lt;/h2&gt;
-        &lt;p&gt;你可以做一个默默潜水的读者，也可以在评论区与作者激辩，或者亲自成为写作者。但无论如何，你一定非常关注 LUG Planet 的动态。所以我们提供了多种方式确保你能得到及时的通知：&lt;/p&gt;
+        &lt;p&gt;你可以做一个默默潜水的读者，也可以在评论区与作者激辩，或者亲自成为写作者。但无论如何，你一定非常关注 HCOI Planet 的动态。所以我们提供了多种方式确保你能得到及时的通知：&lt;/p&gt;
         &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;RSS 订阅&lt;/strong&gt;（推荐）。由 LUG Planet 本身提供的服务，最完善且及时；&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;RSS 订阅&lt;/strong&gt;（推荐）。由 HCOI Planet 本身提供的服务，最完善且及时；&lt;/li&gt;
         &lt;li&gt;&lt;strong&gt;QQ 公众号&lt;/strong&gt;。QQ 号：2786229166；&lt;/li&gt;
         &lt;li&gt;&lt;strong&gt;微信公众号&lt;/strong&gt;。ID：ustclug；&lt;/li&gt;
         &lt;li&gt;&lt;strong&gt;Telegram 频道&lt;/strong&gt;。邀请链接：&lt;a href=&quot;https://t.me/lug_planet&quot;&gt;https://t.me/lug_planet&lt;/a&gt;。&lt;/li&gt;
@@ -31,34 +31,34 @@
         &lt;p&gt;免责声明：我们可能不会将所有动态都公布在这些信息渠道上。&lt;/p&gt;
         &lt;p&gt;如果你想“共襄盛举”，加入写作者的行列，就请仔细阅读下面的内容，确保我们达成共识～&lt;/p&gt;
         &lt;h2 id=&quot;运作方式&quot;&gt;运作方式&lt;/h2&gt;
-        &lt;p&gt;作为一个群体博客，LUG Planet 严重依赖于&lt;strong&gt;各位作者的辛勤劳动&lt;/strong&gt;，没有内容，博客将不能称为博客。虽然为时尚早，但请允许我在此提前表示感谢！ 🙂&lt;/p&gt;
-        &lt;p&gt;在 LUG Planet 上，主要有两种角色类型：作者和编辑。下面我们详细介绍这两类角色的职责。如果你不认可其中的某些条款，请与我们联络并陈述理由。&lt;/p&gt;
+        &lt;p&gt;作为一个群体博客，HCOI Planet 严重依赖于&lt;strong&gt;各位作者的辛勤劳动&lt;/strong&gt;，没有内容，博客将不能称为博客。虽然为时尚早，但请允许我在此提前表示感谢！ 🙂&lt;/p&gt;
+        &lt;p&gt;在 HCOI Planet 上，主要有两种角色类型：作者和编辑。下面我们详细介绍这两类角色的职责。如果你不认可其中的某些条款，请与我们联络并陈述理由。&lt;/p&gt;
         &lt;p&gt;（其实还有“牛顿”——运维人员，不过就让他们继续呆在幕后吧～）&lt;/p&gt;
         &lt;h3 id=&quot;作者&quot;&gt;作者&lt;/h3&gt;
-        &lt;p&gt;任何人都可以成为作者！我们不限制你的身份，无论你是否是 USTC 的学生、校友、老师，只要你认同 USTCLUG 的理念，我们就欢迎你的来稿。&lt;/p&gt;
+        &lt;p&gt;任何人都可以成为作者！我们不限制你的身份，无论你是否是 USTC 的学生、校友、老师，只要你认同 USTCHCOI 的理念，我们就欢迎你的来稿。&lt;/p&gt;
         &lt;p&gt;参与的方法很简单，只需&lt;strong&gt;在本站 &lt;a href=&quot;https://planet.ustclug.org/wp-login.php?action=register&quot;&gt;注册&lt;/a&gt; 成为用户&lt;/strong&gt;即可。注册成功后，你就是我们的“签约作者”了。:-)&lt;/p&gt;
-        &lt;p&gt;作为一个作者，你会得到一个 LUG Planet 的特许通行证——WordPress 帐号。通过这个帐号，你可以自由地编辑你的文章，并提交给编辑进行审核，如果审核通过，恭喜，你的文章就成功发布了！&lt;/p&gt;
+        &lt;p&gt;作为一个作者，你会得到一个 HCOI Planet 的特许通行证——WordPress 帐号。通过这个帐号，你可以自由地编辑你的文章，并提交给编辑进行审核，如果审核通过，恭喜，你的文章就成功发布了！&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;（在未来我们会根据反馈定期对文章进行评选，优秀作品的作者有机会得到我们的奖品哦~）&lt;/strong&gt;&lt;/p&gt;
         &lt;p&gt;与此同时，作者应该承担如下责任：&lt;/p&gt;
         &lt;ol&gt;
-        &lt;li&gt;遵守 &lt;a href=&quot;/wiki/lug/services/rules&quot;&gt;LUG 网络服务总则&lt;/a&gt;；&lt;/li&gt;
+        &lt;li&gt;遵守 &lt;a href=&quot;/wiki/lug/services/rules&quot;&gt;HCOI 网络服务总则&lt;/a&gt;；&lt;/li&gt;
         &lt;li&gt;对内容的真实性、有效性和合法性负责；&lt;/li&gt;
         &lt;li&gt;配合编辑对稿件质量进行提升。&lt;/li&gt;
         &lt;/ol&gt;
         &lt;p&gt;发布后，我们鼓励作者根据读者的评论持续改进文章质量。&lt;/p&gt;
-        &lt;p&gt;任何作品的著作权属于原作者，但如果你想在 LUG Planet 这个平台上发布作品，需要同意：&lt;/p&gt;
+        &lt;p&gt;任何作品的著作权属于原作者，但如果你想在 HCOI Planet 这个平台上发布作品，需要同意：&lt;/p&gt;
         &lt;ol&gt;
-        &lt;li&gt;USTCLUG 可以对这些内容进行再分发，即可以在 LUG Planet 及其他 LUG 官方信息渠道（包括但不限于 QQ 空间、Telegram 频道等）重发布；&lt;/li&gt;
-        &lt;li&gt;USTCLUG 可以对这些内容进行微小修改。我们不会改变文意，大概是帮助你修改一些错别字和术语大小写等等细枝末节的问题；&lt;/li&gt;
-        &lt;li&gt;USTCLUG 可以使用 USTCLUG 的名义对这些作品进行宣传；&lt;/li&gt;
-        &lt;li&gt;文章发布以“现状”发布。不同版本的同一作品，其授权许可应该是互相独立的。在 LUG Planet 上发布作品就代表你同意：即使未来变更作品的许可协议，已被发布的版本将仍然按原有协议许可给 USTCLUG 展示或以上述被提及的方式继续使用。在未作出特别陈述的情况下，在 LUG Planet 上编辑你撰写的已经发布的文章默认继续使用上一个版本的许可协议。（简单说，就是一旦你的文章被发布，就无法撤回了。但你有权选择将新版本的文章不授权给 LUG Planet 使用。）&lt;/li&gt;
+        &lt;li&gt;USTCHCOI 可以对这些内容进行再分发，即可以在 HCOI Planet 及其他 HCOI 官方信息渠道（包括但不限于 QQ 空间、Telegram 频道等）重发布；&lt;/li&gt;
+        &lt;li&gt;USTCHCOI 可以对这些内容进行微小修改。我们不会改变文意，大概是帮助你修改一些错别字和术语大小写等等细枝末节的问题；&lt;/li&gt;
+        &lt;li&gt;USTCHCOI 可以使用 USTCHCOI 的名义对这些作品进行宣传；&lt;/li&gt;
+        &lt;li&gt;文章发布以“现状”发布。不同版本的同一作品，其授权许可应该是互相独立的。在 HCOI Planet 上发布作品就代表你同意：即使未来变更作品的许可协议，已被发布的版本将仍然按原有协议许可给 USTCHCOI 展示或以上述被提及的方式继续使用。在未作出特别陈述的情况下，在 HCOI Planet 上编辑你撰写的已经发布的文章默认继续使用上一个版本的许可协议。（简单说，就是一旦你的文章被发布，就无法撤回了。但你有权选择将新版本的文章不授权给 HCOI Planet 使用。）&lt;/li&gt;
         &lt;/ol&gt;
         &lt;p&gt;为了方便起见，除了这些条款，你应该允许你的作品在 &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;CC BY-NC-SA 4.0 (国际)&lt;/a&gt; 协议下发布，同时同意上面的附加条款。这是因为我们不是律师，所以选择一个已经写好的许可证书。&lt;/p&gt;
         &lt;p&gt;这里需要提醒一下，虽然文章的版权仍然属于原作者，但发布与否是由编辑决定的。如果编辑认定你多次恶意提交文章，你的帐号将可能被永久封禁。注册不易，且行且珍惜。&lt;/p&gt;
         &lt;h3 id=&quot;编辑&quot;&gt;编辑&lt;/h3&gt;
         &lt;ol&gt;
         &lt;li&gt;审核评论及垃圾评论清理；&lt;/li&gt;
-        &lt;li&gt;审核稿件是否适合发布在 LUG Planet 上；&lt;/li&gt;
+        &lt;li&gt;审核稿件是否适合发布在 HCOI Planet 上；&lt;/li&gt;
         &lt;li&gt;在能力范围内，协助作者确认发布该文章是合法的（但不提供任何担保）；&lt;/li&gt;
         &lt;li&gt;在能力范围内，协助作者改进文章质量。&lt;/li&gt;
         &lt;/ol&gt;
@@ -93,21 +93,21 @@
         &lt;li&gt;过偏过难的技术向文章
         &lt;ul&gt;
         &lt;li&gt;过于专门的文章我们也许无力审核&lt;/li&gt;
-        &lt;li&gt;读者面过于狭窄，且可能与 LUG Planet 目标读者重叠较小，发布在 LUG Planet 上“性价比”较低&lt;/li&gt;
+        &lt;li&gt;读者面过于狭窄，且可能与 HCOI Planet 目标读者重叠较小，发布在 HCOI Planet 上“性价比”较低&lt;/li&gt;
         &lt;/ul&gt;
         &lt;/li&gt;
         &lt;li&gt;业界资讯
         &lt;ul&gt;
-        &lt;li&gt;这类文章时效性强，与更偏向于积累知识的 LUG Planet 不太搭调&lt;/li&gt;
+        &lt;li&gt;这类文章时效性强，与更偏向于积累知识的 HCOI Planet 不太搭调&lt;/li&gt;
         &lt;li&gt;我们认为这类文章有更好的资讯站点&lt;/li&gt;
         &lt;/ul&gt;
         &lt;/li&gt;
         &lt;li&gt;商业广告及赞助内容
         &lt;ul&gt;
-        &lt;li&gt;USTCLUG 是一个不营利的学生社团&lt;/li&gt;
+        &lt;li&gt;USTCHCOI 是一个不营利的学生社团&lt;/li&gt;
         &lt;/ul&gt;
         &lt;/li&gt;
-        &lt;li&gt;与 LUG 主题没有任何关系的内容
+        &lt;li&gt;与 HCOI 主题没有任何关系的内容
         &lt;ul&gt;
         &lt;li&gt;包括但不限于新式永动机设计、大陆漂移学说不成立的分析、相对论错误的第 114514 种证明&lt;/li&gt;
         &lt;li&gt;编辑和读者对这些内容都不感兴趣，所以不能发布&lt;/li&gt;
@@ -116,5 +116,5 @@
         &lt;li&gt;其他任何编辑认为不适宜的内容&lt;/li&gt;
         &lt;/ol&gt;
         &lt;h2 id=&quot;联系方式&quot;&gt;联系方式&lt;/h2&gt;
-        &lt;p&gt;如果你有任何有关文章发表上的问题、或任何对 LUG Planet 发展上的建议，请立即与我们联络。联系邮箱：&lt;a href=&quot;mailto:planet@ustclug.org&quot;&gt;planet@ustclug.org&lt;/a&gt;。&lt;/p&gt;
-        &lt;p&gt;目前 LUG Planet 不知道谁在负责 😥&lt;/p&gt;</content><author><name>USTCLUG</name></author><summary type="html">欢迎大家来到 LUG Planet！这是一个刚刚被发现的新星球，百废待兴。本文是 LUG Planet 的说明书，在你入驻之前，不妨先驻足欣赏一下这片风景。😀</summary></entry></feed>
+        &lt;p&gt;如果你有任何有关文章发表上的问题、或任何对 HCOI Planet 发展上的建议，请立即与我们联络。联系邮箱：&lt;a href=&quot;mailto:planet@ustclug.org&quot;&gt;planet@ustclug.org&lt;/a&gt;。&lt;/p&gt;
+        &lt;p&gt;目前 HCOI Planet 不知道谁在负责 😥&lt;/p&gt;</content><author><name>USTCHCOI</name></author><summary type="html">欢迎大家来到 HCOI Planet！这是一个刚刚被发现的新星球，百废待兴。本文是 HCOI Planet 的说明书，在你入驻之前，不妨先驻足欣赏一下这片风景。😀</summary></entry></feed>
