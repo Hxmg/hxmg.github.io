@@ -2,13 +2,13 @@
 permalink: /wiki/lug/events/
 ---
 
-# LUG 活动
+# HCOI 活动
 
-LUG 活动概述请移步 [LUG首页](/)。
+HCOI 活动概述请移步 [HCOI首页](/)。
 
-LUG 的所有活动均依照 [社团章程](http://ftp.ustclug.org/社团管理/章程/2019-章程.pdf) 开展。
+HCOI 的所有活动均依照 [社团章程](http://ftp.ustclug.org/社团管理/章程/2019-章程.pdf) 开展。
 
-欢迎订阅 [LUG 日历](calendar.md)。
+欢迎订阅 [HCOI 日历](calendar.md)。
 
 2016 年及之后的活动不在这里重复记录小聚信息了，请移步[每周小聚](weeklyparty.md)页面查看。
 
@@ -18,7 +18,7 @@ LUG 的所有活动均依照 [社团章程](http://ftp.ustclug.org/社团管理/
 | :--------- | :---------- | :------------- | :----------------------------------------------------------- |
 | 2020-09-26 | 19:00-21:30 | 西区 3C103     | 软件自由日活动                                                 |
 
-注意：LUD (Linux User Dinner) 均为自愿参加活动，活动费用由参加者分摊，不从社团任何经费报销。关于 LUG 的财务管理制度详情见：/wiki/lug/finance
+注意：LUD (Linux User Dinner) 均为自愿参加活动，活动费用由参加者分摊，不从社团任何经费报销。关于 HCOI 的财务管理制度详情见：/wiki/lug/finance
 
 ## Previous Events
 
@@ -102,7 +102,7 @@ LUG 的所有活动均依照 [社团章程](http://ftp.ustclug.org/社团管理/
 | 2014-10-19    | 15:00       | 东区 2103 教室             | [小聚：关于文件的种种魔法](/wiki/lug/events/weeklyparty) |
 | 2014-10-12    | 14:30       | 西区 3A203 教室            | [小聚：Git 使用心得](/wiki/lug/events/weeklyparty) |
 | 2014-10-01    | 08:30       | 东区活动室集合             | 登大蜀山                                                     |
-| 2014-09-26    | 19:00       | 西区 3A203 教室            | LUG 会员大会                                                 |
+| 2014-09-26    | 19:00       | 西区 3A203 教室            | HCOI 会员大会                                                 |
 | 2014-09-20    | 14:00       | 东图四楼学术报告厅         | [自由软件日活动](/wiki/lug/events/sfd) |
 | 2014-05-19    | 11:30       | 东西活广场                 | 趣味问答活动                                                 |
 | 2014-04-20    | 19:00       | 翰海e舟                    | 换届会议                                                     |
@@ -120,7 +120,7 @@ LUG 的所有活动均依照 [社团章程](http://ftp.ustclug.org/社团管理/
 | 2013-09-21    | 14:30       | 西区学术报告厅             | [SFD](/wiki/lug/events/sfd)           |
 | 2013-05-11    | 14:30       | 西区学术报告厅             | Ubuntu & Debian Release Party                                |
 | 2013-05-05    | 19:00       | 网络中心402                | 小聚：[TeXmacs基础](/wiki/lug/events/weeklyparty) |
-| 2013-04-28    | 19:30       | LUG活动室                  | 换届会议                                                     |
+| 2013-04-28    | 19:30       | HCOI活动室                  | 换届会议                                                     |
 | 2013-04-21    | 14:30       | 3121教室                   | Linux让一切变得简单                                          |
 | 2013-04-13    | 17:30       | 川徽饭店                   | LUD                                                          |
 | 2013-04-06    | 19:00       | 少年班学院动手实验室、机房 | 小聚：[来点硬(件)的，来点(微)软的](/wiki/lug/events/weeklyparty) |
@@ -136,21 +136,21 @@ LUG 的所有活动均依照 [社团章程](http://ftp.ustclug.org/社团管理/
 | 2012-12-22    | 19:30       | 西活324室                  | 讲座：[给开源编译器插入后门](/wiki/lug/events/weeklyparty) |
 | 2012-12-15    | 19:30       | 西活324室                  | 讲座：[Linux From Scratch](/wiki/lug/events/weeklyparty) |
 | 2012-12-08    | 19:30       | 西活324室                  | 讲座：[给进程打补丁](/wiki/lug/events/weeklyparty) |
-| 2012-12-01    | 19:30       | 西活324室                  | LUG Services讨论                                             |
+| 2012-12-01    | 19:30       | 西活324室                  | HCOI Services讨论                                             |
 | 2012-11-24    | 14:30       | 东区水上报告厅             | **Linux User Party** [资源汇总](/~boj/LUP2012/) |
-| 2012-11-17    | 19:30       | LUG活动室                  | USTC blog讨论、LUP筹办讨论                                   |
-| 2012-11-03    | 17:30       | 川徽饭店                   | LUG项目与发展讨论                                            |
+| 2012-11-17    | 19:30       | HCOI活动室                  | USTC blog讨论、LUP筹办讨论                                   |
+| 2012-11-03    | 17:30       | 川徽饭店                   | HCOI项目与发展讨论                                            |
 | 2012-10-28    | 19:30       | 电二楼                     | 参观可佳机器人实验室                                         |
 | 2012-10-20    | 19:30       | 西活324室                  | 讲座：[搜索引擎简介](/wiki/lug/events/weeklyparty) |
 | 2012-10-14    | 09:00       | 科大网络中心               | 参观网络中心和超算中心                                       |
 | 2012-09-29    | 19:30       | 西活324室                  | 交流：[Linux Desktop App](/wiki/lug/events/weeklyparty) |
-| 2012-09-22    | 14:30       | 3123教室                   | LUG会员大会                                                  |
+| 2012-09-22    | 14:30       | 3123教室                   | HCOI会员大会                                                  |
 | 2012-09-15    | 08:30       | 西活多功能厅               | **Software Freedom Day 软件自由日**                          |
-| 2012-09-08    | 19:30       | LUG活动室                  | [SFD](/wiki/lug/events/sfd)筹办讨论   |
+| 2012-09-08    | 19:30       | HCOI活动室                  | [SFD](/wiki/lug/events/sfd)筹办讨论   |
 
-## 从哪里知道LUG活动
+## 从哪里知道HCOI活动
 
-* [LUG邮件列表](/wiki/lug/mailinglist)
+* [HCOI邮件列表](/wiki/lug/mailinglist)
 * 瀚海星云 BBS Linux 版
 * QQ 群公告
 * QQ 公众号及微信公众号

@@ -4,14 +4,14 @@ permalink: /wiki/
 
 # 湖南信息职业技术学院 Linux 用户协会
 
-湖南信息职业技术学院 Linux 用户协会（信大 LUG）是由在校的 GNU/Linux 爱好者发起并组成的全校性群众团体，是一个以推广自由软件文化、宣传自由软件价值为目的的协会组织。  
+湖南信息职业技术学院 Linux 用户协会（信大 HCOI）是由在校的 GNU/Linux 爱好者发起并组成的全校性群众团体，是一个以推广自由软件文化、宣传自由软件价值为目的的协会组织。  
 [了解更多](intro.md)
 
 [English Version](intro_english.md)
 
 ## 特色活动
 
-* **[LUG 每周小聚](/wiki/lug/events/weeklyparty):**
+* **[HCOI 每周小聚](/wiki/lug/events/weeklyparty):**
 
   每周末由同学带来的技术分享演讲。
 
@@ -34,12 +34,12 @@ permalink: /wiki/
 ## 网络服务
 
 * **[开源软件镜像](/wiki/lug/services/mirrors)**
-* **[LUG FTP(各种资源汇总)](/wiki/lug/services/ftp)**
+* **[HCOI FTP(各种资源汇总)](/wiki/lug/services/ftp)**
 * **[网络启动服务](/wiki/lug/services/pxe)**
 * **[GitLab 代码托管](/wiki/lug/services/gitlab)**
 * **[其他](/wiki/lug/services)**
 
-请参阅 [LUG 网络服务总则](/wiki/lug/services/rules)
+请参阅 [HCOI 网络服务总则](/wiki/lug/services/rules)
 
 ## 联系我们
 
@@ -59,4 +59,4 @@ Designed by Shengyu Zhang on 2018-08-30
 
 ## 协会章程
 
-LUG 的所有活动均依照[协会章程](https://ftp.lug.ustc.edu.cn/%E7%A4%BE%E5%9B%A2%E7%AE%A1%E7%90%86/%E7%AB%A0%E7%A8%8B/2019-%E7%AB%A0%E7%A8%8B.pdf)开展。
+HCOI 的所有活动均依照[协会章程](https://ftp.lug.ustc.edu.cn/%E7%A4%BE%E5%9B%A2%E7%AE%A1%E7%90%86/%E7%AB%A0%E7%A8%8B/2019-%E7%AB%A0%E7%A8%8B.pdf)开展。

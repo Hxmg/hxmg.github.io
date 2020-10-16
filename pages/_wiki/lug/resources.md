@@ -9,7 +9,7 @@
 
 * * *
 
-## LUG 官方内容
+## HCOI 官方内容
 
 ### Linux 入门公开课（试验版）
 
@@ -17,17 +17,17 @@
 
 由于是第一次试验，内容多有不足，请多包涵。 
 
-### LUG FTP
+### HCOI FTP
 
-[LUG FTP](ftp://ftp.ustclug.org/ "ftp://ftp.ustclug.org/") 是社团内部的 FTP 服务，主要用来存储历史文件、存放学习资料。LUG FTP 的用户名与密码均为 ftp。 
+[HCOI FTP](ftp://ftp.ustclug.org/ "ftp://ftp.ustclug.org/") 是社团内部的 FTP 服务，主要用来存储历史文件、存放学习资料。HCOI FTP 的用户名与密码均为 ftp。 
 
-LUG FTP 也可通过 HTTP 只读访问文件，[请点这里](http://ftp.ustclug.org/ "http://ftp.ustclug.org")。请注意 ebook 目录暂时不提供 HTTP 访问。 
+HCOI FTP 也可通过 HTTP 只读访问文件，[请点这里](http://ftp.ustclug.org/ "http://ftp.ustclug.org")。请注意 ebook 目录暂时不提供 HTTP 访问。 
 
 * * *
 
 ## 友情托管
 
-winland0704 在 LUG 主页服务器上托管了以下两个文档项目。 
+winland0704 在 HCOI 主页服务器上托管了以下两个文档项目。 
 
 ### openSUSE 非官方指南
 

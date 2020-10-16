@@ -24,17 +24,17 @@
 * [Fedora 中文社区](http://www.fdzh.org/)
 * [开源工场](https://openingsource.org/)
 
-## 各地 LUG
+## 各地 HCOI
 
 | 地区 | 邮件列表                                                     | Homepage                                                     |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 上海 | [Shanghai Linux User Group](https://groups.google.com/group/shlug) | [SHLUG](http://www.shlug.org/)                               |
-| 北京 | [Beijing GNU/Linux User Group](https://blug.sh/mailing-list/) | [BJLUG](https://blug.sh/)                                    |
-| 成都 | [Chengdu Linux User Group](https://groups.google.com/group/cdlug_community) | [CDLUG](http://www.cdlug.sh/)                                |
-| 重庆 | [Chongqing Linux User Group](https://groups.google.com/forum/#!forum/chongqinglug) | [CHONGQINGLUG](http://www.chongqinglug.org/)                 |
-| 广州 | [Guangzhou Linux User Group](https://groups.google.com/group/gzlug) | [GZLUG](http://www.gzlug.org/)                               |
+| 上海 | [Shanghai Linux User Group](https://groups.google.com/group/shlug) | [SHHCOI](http://www.shlug.org/)                               |
+| 北京 | [Beijing GNU/Linux User Group](https://blug.sh/mailing-list/) | [BJHCOI](https://blug.sh/)                                    |
+| 成都 | [Chengdu Linux User Group](https://groups.google.com/group/cdlug_community) | [CDHCOI](http://www.cdlug.sh/)                                |
+| 重庆 | [Chongqing Linux User Group](https://groups.google.com/forum/#!forum/chongqinglug) | [CHONGQINGHCOI](http://www.chongqinglug.org/)                 |
+| 广州 | [Guangzhou Linux User Group](https://groups.google.com/group/gzlug) | [GZHCOI](http://www.gzlug.org/)                               |
 | 杭州 | [Hangzhou Linux User Group](https://groups.google.com/group/hzlug) |                                                              |
-| 南京 | [Nanjing Linux User Group](https://groups.google.com/group/njlug) | [NANJINGLUG](http://nanjinglug.org/)                         |
+| 南京 | [Nanjing Linux User Group](https://groups.google.com/group/njlug) | [NANJINGHCOI](http://nanjinglug.org/)                         |
 | 深圳 | [Shenzhen Linux User Group](https://groups.google.com/group/szlug) |                                                              |
 | 天津 | [Tianjing Linux User Group](https://groups.google.com/group/tjlug) |                                                              |
 | 香港 |                                                              | [Hong Kong Linux User Group](http://www.linux.org.hk/)       |

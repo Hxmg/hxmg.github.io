@@ -7,7 +7,7 @@
 
 ------
 
-科大镜像源使用帮助由科大 LUG 成员与许多热心的朋友们共同编写。 
+科大镜像源使用帮助由科大 HCOI 成员与许多热心的朋友们共同编写。 
 
 本页面及各镜像源帮助页面源代码现托管在 [GitHub](https://github.com/ustclug/mirrorhelp) 上，欢迎各位协助完善。 如果您有添加新镜像的建议与需求，请在 [GitHub](https://github.com/ustclug/mirrorrequest) 上提交 issue. 
 

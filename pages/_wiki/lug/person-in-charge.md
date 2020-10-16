@@ -26,14 +26,14 @@
 | PXE          | [科大网络启动服务](http://pxe.ustc.edu.cn/)                 | **cuihao**                     |
 | 图书馆查询机 | 基于PXE网络启动                                             | **cuihao**, hosiet             |
 | HCOI 主页    | (this wiki)                                                 | hosiet                         |
-| 邮件列表     | [LUG邮件列表](https://lug.ustc.edu.cn/wiki/lug/mailinglist) | stephen, yifan                  |
+| 邮件列表     | [HCOI邮件列表](https://lug.ustc.edu.cn/wiki/lug/mailinglist) | stephen, yifan                  |
 | SNS          | 人人, G+, etc                                                 | **hosiet**                     |
 | FTP          | https://ftp.ustclug.org/                                    | hosiet, yifan                  |
 | 网络加速服务 | https://getvpn.ustclug.org/                                 | yifan                          |
 | freeshell    | [VPS for USTCers](http://blog.ustc.edu.cn/freeshell)        | **alkaid**, zsj, cuihao, yifan |
 | gitlab       | [类似GitHub的代码托管服务](https://git.lug.ustc.edu.cn/)    | **knight**, yifan              |
-| DNS          | LUG权威DNS服务器                                            | **roy**                        |
-| 防污染DNS    | LUG自建的防污染DNS服务器                                    | **yifan**                      |
+| DNS          | HCOI权威DNS服务器                                            | **roy**                        |
+| 防污染DNS    | HCOI自建的防污染DNS服务器                                    | **yifan**                      |
 
 # 历任负责人
 

@@ -2,9 +2,9 @@
 permalink: /wiki/lug/book/
 ---
 
-# LUG书库
+# HCOI书库
 
-目前LUG活动室有一些Linux系统相关比较经典的书籍，有一部分是LUG购买的，有一部分是网友捐赠的。 
+目前HCOI活动室有一些Linux系统相关比较经典的书籍，有一部分是HCOI购买的，有一部分是网友捐赠的。 
 
 我们同时非常欢迎童鞋们将自己手头不再需要的好书捐献出来。捐赠图书可以[联系我们](mailto:lug@ustc.edu.cn "lug@ustc.edu.cn")。 
 
@@ -14,21 +14,21 @@ permalink: /wiki/lug/book/
 
 读书笔记汇总：[读书笔记](booknotes "lug:book:booknotes")
 
-给LUG书库推荐好书：[ 联系图书管理员](mailto:lug@ustc.edu.cn "lug@ustc.edu.cn")
+给HCOI书库推荐好书：[ 联系图书管理员](mailto:lug@ustc.edu.cn "lug@ustc.edu.cn")
 
 # 书单
 
 书单的分类比较粗糙，有改进意见请联系图书管理员 
 
-以下信息可能已经过时，请访问新版LUG书库：<https://library.ustclug.org/>
+以下信息可能已经过时，请访问新版HCOI书库：<https://library.ustclug.org/>
 
 ## Linux入门
 
 | 书名                                                                                                                 | 作者 | 定价（￥） | 备注 | 借阅情况 |
 |----------------------------------------------------------------------------------------------------------------------|-----|--------|-----|--------|
-| [鸟哥的Linux私房菜 基础学习篇(第二版)](http://book.douban.com/subject/2208530/ "http://book.douban.com/subject/2208530/") | 鸟哥 | 65     | 3本 <br> LUG购置2 <br> QuITh网友捐赠1| 借出1本  
-[鸟哥的Linux私房菜 基础学习篇(第三版)](http://book.douban.com/subject/4889838/ "http://book.douban.com/subject/4889838/")| 鸟哥| 88.00 | 2本 <br> LUG购置 | 借出2本  
-[完美应用Ubuntu ](http://book.douban.com/subject/3192043/ "http://book.douban.com/subject/3192043/")| Ubuntu China| 55 | LUG购置| -  
+| [鸟哥的Linux私房菜 基础学习篇(第二版)](http://book.douban.com/subject/2208530/ "http://book.douban.com/subject/2208530/") | 鸟哥 | 65     | 3本 <br> HCOI购置2 <br> QuITh网友捐赠1| 借出1本  
+[鸟哥的Linux私房菜 基础学习篇(第三版)](http://book.douban.com/subject/4889838/ "http://book.douban.com/subject/4889838/")| 鸟哥| 88.00 | 2本 <br> HCOI购置 | 借出2本  
+[完美应用Ubuntu ](http://book.douban.com/subject/3192043/ "http://book.douban.com/subject/3192043/")| Ubuntu China| 55 | HCOI购置| -  
 [从零开始学Linux ](http://book.douban.com/subject/10876230/ "http://book.douban.com/subject/10876230/")| 粱丽平、马飞| 45 | lizitian捐赠 | -  
   
 
@@ -37,7 +37,7 @@ permalink: /wiki/lug/book/
 | 书名                                                                                                                                | 作者                                   | 定价(￥) | 备注     | 借阅 |
 |-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|--------|----------|-----|
 | [鸟哥的Linux私房菜 服务器架设篇(第二版)](http://book.douban.com/subject/2338464/ "http://book.douban.com/subject/2338464/")              | 鸟哥                                   | 88.00  | QuITh捐赠 | -   |
-| [鸟哥的Linux私房菜: 服务器架设篇(第三版)](http://book.douban.com/subject/10794788/ "http://book.douban.com/subject/10794788/")           | 鸟哥                                   | 108.00 | 2本 LUG购置 | 已借出1本 |
+| [鸟哥的Linux私房菜: 服务器架设篇(第三版)](http://book.douban.com/subject/10794788/ "http://book.douban.com/subject/10794788/")           | 鸟哥                                   | 108.00 | 2本 HCOI购置 | 已借出1本 |
 | [Red Hat Linux 9.0基础教程](http://book.douban.com/subject/1237940/ "http://book.douban.com/subject/1237940/")                       | 黄丽娜等                                | 38.60  | 网友捐赠  | -   |
 | [LINUX 网络管理员指南(第二版)](http://book.douban.com/subject/1240136/ "http://book.douban.com/subject/1240136/")                      | OLAF KIRCH TERRY DAWSON                | 59.00  | 网友捐赠  | -   |
 | [Solaris 8技术大全](http://book.douban.com/subject/1240493/ "http://book.douban.com/subject/1240493/")                               | Paul A. Watters Sriranga Veeraraghavan | 48.00  | 网友捐赠  | -   |
@@ -45,8 +45,8 @@ permalink: /wiki/lug/book/
 | [系统管理指南 Apache](http://book.douban.com/subject/1229763/ "http://book.douban.com/subject/1229763/")                              | Mark Arnold Jeff Almeida               | 36.00  | 网友捐赠  | -   |
 | [构建可扩展的Web站点](http://book.douban.com/subject/3039216/ "http://book.douban.com/subject/3039216/")                              | Cal Henderson                          | 58.00  | 会员捐赠  | -   |
 | [构建高性能Web站点: 改善性能和扩展规模的具体做法](http://book.douban.com/subject/3924175/ "http://book.douban.com/subject/3924175/")       | 郭欣                                   | 59.00  | 会员捐赠  | -   |
-| [高性能Linux服务器构建实战: 运维监控、性能调优与集群应用](http://book.douban.com/subject/7564094/ "http://book.douban.com/subject/7564094/") | 高俊峰                                  | 79.00  | LUG购置  | -   |
-| [BackTrack4: 利用渗透测试保证系统安全](http://book.douban.com/subject/10071963/ "http://book.douban.com/subject/10071963/")             | 阿里                                   | 59.00  | LUG购置  | -   |
+| [高性能Linux服务器构建实战: 运维监控、性能调优与集群应用](http://book.douban.com/subject/7564094/ "http://book.douban.com/subject/7564094/") | 高俊峰                                  | 79.00  | HCOI购置  | -   |
+| [BackTrack4: 利用渗透测试保证系统安全](http://book.douban.com/subject/10071963/ "http://book.douban.com/subject/10071963/")             | 阿里                                   | 59.00  | HCOI购置  | -   |
 | [红旗Linux用户基础教程](http://book.douban.com/subject/1223266/ "http://book.douban.com/subject/1223266/")                            | 红旗软件工作室                           | 18.00  | 会员捐赠  | -   |
 | [Linux命令行与shell脚本编程大全(第2版)](http://book.douban.com/subject/11589828/ "http://book.douban.com/subject/11589828/")            | Richard Blum & Christine Bresnahan     | 99.00  | ewind捐赠 | -   |
 
@@ -58,13 +58,13 @@ permalink: /wiki/lug/book/
 |-------------------------------------------------|-----|--------|--------|--------|
 | FreeBSD技术内幕                                  | -   | 88     | 网友捐赠 | -      |
 | Linux 0.01内核分析与操作系统设计——创造你自己的操作系统 | -   | 32     | 网友捐赠 | -      |
-深入Linux内核架构 <br> Professional Linux Kernel Architecture| 莫尔勒| 149.00| LUG购置| -  
-[深入理解Linux内核（第三版，中文版）](http://book.douban.com/subject/2287506/ "http://book.douban.com/subject/2287506/")| Daniel P. Bovet| 98| 2本，LUG购置，stephen捐赠| -  
+深入Linux内核架构 <br> Professional Linux Kernel Architecture| 莫尔勒| 149.00| HCOI购置| -  
+[深入理解Linux内核（第三版，中文版）](http://book.douban.com/subject/2287506/ "http://book.douban.com/subject/2287506/")| Daniel P. Bovet| 98| 2本，HCOI购置，stephen捐赠| -  
 深入理解Linux内核 第二版| Daniel P. Bovet| 79| 网友捐赠| -  
 [手把手教你构建自己的Linux系统（1CD）](https://book.douban.com/subject/5372326/ "https://book.douban.com/subject/5372326/")| 孙海勇| 65| 网友捐赠| -  
 Linux设备驱动程序 第二版| -| 69| 网友捐赠| -  
-[Linux设备驱动开发技术及应用](http://www.china-pub.com/41602 "http://www.china-pub.com/41602")| 俞永昌| 85| LUG购置| -  
-[精通Linux驱动程序开发](http://book.douban.com/subject/3700970/ "http://book.douban.com/subject/3700970/")| Venkateswaran, S| 99| LUG购置| -  
+[Linux设备驱动开发技术及应用](http://www.china-pub.com/41602 "http://www.china-pub.com/41602")| 俞永昌| 85| HCOI购置| -  
+[精通Linux驱动程序开发](http://book.douban.com/subject/3700970/ "http://book.douban.com/subject/3700970/")| Venkateswaran, S| 99| HCOI购置| -  
 Linux设备驱动程序（第3版）| Jonathan Corbet et al| 69.00| stephen捐赠| -  
   
 
@@ -74,7 +74,7 @@ Linux设备驱动程序（第3版）| Jonathan Corbet et al| 69.00| stephen捐�
 |------------------------------|-----------------------------|--------|--------|---------|
 | 学习GNU Emacs                | Debra Cameron               | 68     | 网友捐赠 | 已借出   |
 | Git权威指南                   | 蒋鑫                        | 89.00  | 会员捐赠 | 已借出   |
-| 学习vi和Vim编辑器(中文版)(第7版) | 罗宾斯                       | 59.90  | LUG购置 | 1本在东区 |
+| 学习vi和Vim编辑器(中文版)(第7版) | 罗宾斯                       | 59.90  | HCOI购置 | 1本在东区 |
 | 学习vi编辑器(第六版)           | Linda Lamb & Arnold Robbins | 43.00  | 不详   | -       |
 
   
@@ -83,16 +83,16 @@ Linux设备驱动程序（第3版）| Jonathan Corbet et al| 69.00| stephen捐�
 
 | 书名                                                                                                | 作者                     | 定价（￥） | 备注       | 借阅情况 |
 |-----------------------------------------------------------------------------------------------------|--------------------------|--------|------------|--------|
-| [Linux程序设计](http://book.douban.com/subject/2073826/ "http://book.douban.com/subject/2073826/")   | Neil Matthew             | 89     | LUG购置    | -      |
-| [Unix环境高级编程](http://book.douban.com/subject/1788421/ "http://book.douban.com/subject/1788421/") | W. Richard Stevens       | 99     | 3本，LUG购置 | -      |
+| [Linux程序设计](http://book.douban.com/subject/2073826/ "http://book.douban.com/subject/2073826/")   | Neil Matthew             | 89     | HCOI购置    | -      |
+| [Unix环境高级编程](http://book.douban.com/subject/1788421/ "http://book.douban.com/subject/1788421/") | W. Richard Stevens       | 99     | 3本，HCOI购置 | -      |
 | Linux高级编程                                                                                        | -                        | 89     | 网友捐赠    | -      |
 | Linux下的C编程                                                                                       | -                        | 48     | 网友捐赠    | -      |
 | Linux编程白皮书                                                                                      | -                        | 39     | 网友捐赠    | -      |
 | Linux编程权威指南                                                                                     | -                        | 45     | 网友捐赠    | -      |
 | Linux系统分析与高级编程技术                                                                            | -                        | 58     | 网友捐赠    | -      |
 | C/C++嵌入式系统编程                                                                                   | -                        | 29     | 网友捐赠    | -      |
-| UNIX编程环境（英文版）                                                                                  | Brain W. Kernighan et al | 59.00  | LUG购置    | -      |
-| 构建嵌入式Linux系统（第二版）                                                                            | Karim Yaghmour et al     | 58.00  | LUG购置    | -      |
+| UNIX编程环境（英文版）                                                                                  | Brain W. Kernighan et al | 59.00  | HCOI购置    | -      |
+| 构建嵌入式Linux系统（第二版）                                                                            | Karim Yaghmour et al     | 58.00  | HCOI购置    | -      |
 | C++ Primer（第4版）                                                                                   | Stanley B. Lippman       | 99.00  | stephen捐赠 | 已借出  |
 
   
@@ -101,20 +101,20 @@ Linux设备驱动程序（第3版）| Jonathan Corbet et al| 69.00| stephen捐�
 
 | 书名                                                                                                  | 作者         | 定价（￥） | 备注   | 借阅情况 |
 |-------------------------------------------------------------------------------------------------------|--------------|--------|--------|--------|
-| C程序设计语言(第2版新版)                                                                                 | 克尼汉        | 20.70  | LUG购置 | -      |
+| C程序设计语言(第2版新版)                                                                                 | 克尼汉        | 20.70  | HCOI购置 | -      |
 | [C++编程规范（英文版）](http://book.douban.com/subject/1444869/ "http://book.douban.com/subject/1444869/") | -            | 42     | 网友捐赠 | -      |
 | 面向对象程序设计，C++语言描述                                                                              | -            | 48     | 网友捐赠 | -      |
-| Effective C++: 改善程序与设计的55个具体做法(第3版)(云风评注)                                                | Scott Meyers | 48.80  | LUG购置 | -      |
-| Effective C++: 改善程序与设计的55个具体做法(第3版)(英文版)                                                  | Scott Meyers | 45.00  | LUG购置 | \-     |
+| Effective C++: 改善程序与设计的55个具体做法(第3版)(云风评注)                                                | Scott Meyers | 48.80  | HCOI购置 | -      |
+| Effective C++: 改善程序与设计的55个具体做法(第3版)(英文版)                                                  | Scott Meyers | 45.00  | HCOI购置 | \-     |
 | [Python开发技术详解](http://book.douban.com/subject/3889005/ "http://book.douban.com/subject/3889005/") | -            | 69     | 网友捐赠 | -      |
-| Advanced Bash Scripting                                                                               | -            | -      | LUG打印 | -      |
-计算机程序的构造和解释（第2版，翻译）<br> Structure and Interpretation of Computer Programs| Harold Abelson等| 45.00| LUG购置| 已借出  
-七周七语言：理解多种编程范型| Bruce A. Tate| 59.00| LUG购置| -  
-松本行弘的程序世界| 松本行弘| 75.00| LUG购置| -  
+| Advanced Bash Scripting                                                                               | -            | -      | HCOI打印 | -      |
+计算机程序的构造和解释（第2版，翻译）<br> Structure and Interpretation of Computer Programs| Harold Abelson等| 45.00| HCOI购置| 已借出  
+七周七语言：理解多种编程范型| Bruce A. Tate| 59.00| HCOI购置| -  
+松本行弘的程序世界| 松本行弘| 75.00| HCOI购置| -  
 ANSI C99 Standard| ISO/IEC| 打印| 会员捐赠| -  
 面向对象程序设计——C++语言描述| Martin Kalin, Richard Johnsonbaugh| 48| 不详| -  
-超越Java：探讨程序语言的未来| Bruce A. Tate| 29.00| LUG购置| -  
-C和指针| Kenneth A. Reek| 65.00| LUG购置| 已借出  
+超越Java：探讨程序语言的未来| Bruce A. Tate| 29.00| HCOI购置| -  
+C和指针| Kenneth A. Reek| 65.00| HCOI购置| 已借出  
 程序设计语言概念（第7版影印）| Robert W. Sebesta| 49.00| 会员捐赠| -  
 程序设计语言原理（第8版翻译）| Robert W. Sebesta| 75.00| 会员捐赠| 已借出  
 MATLAB R2012a超级学习手册| 史洁玉，孔玲军| 69.00| 会员捐赠| -  
@@ -130,10 +130,10 @@ Haskell 趣学指南| Miran Lipovaca著，李亚舟、宋方睿译| 69.00| boj�
 
 | 书名                                                                                                                  | 作者               | 定价（￥） | 备注   | 借阅情况 |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------|--------|--------|--------|
-| UNIX网络编程. 卷2: 进程间通信(第2版)                                                                                      | W. Richard Stevens | 66.80  | LUG购置 | -      |
+| UNIX网络编程. 卷2: 进程间通信(第2版)                                                                                      | W. Richard Stevens | 66.80  | HCOI购置 | -      |
 | [UNIX网络编程. 卷2: 进程间通信(第2版)](http://book.douban.com/subject/4886882/ "http://book.douban.com/subject/4886882/") | W. Richard Stevens | 89     | boj捐赠 | -      |
-| UNIX网络编程(卷1): 套接字联网API(第3版)                                                                                   | W. Richard Stevens | 96.70  | LUG购置 | -      |
-TCP/IP 详解(卷1: 协议)  <br> TCP/IP Illustrated Volume 1: The Protocols| W. Richard Stevens| 45.00| LUG购置|  \-   
+| UNIX网络编程(卷1): 套接字联网API(第3版)                                                                                   | W. Richard Stevens | 96.70  | HCOI购置 | -      |
+TCP/IP 详解(卷1: 协议)  <br> TCP/IP Illustrated Volume 1: The Protocols| W. Richard Stevens| 45.00| HCOI购置|  \-   
 [TCP/IP详解 卷2：实现](http://book.douban.com/subject/1087767/ "http://book.douban.com/subject/1087767/")| Gary R. Wright  
 W. Richard Stevens| 78.00| boj捐赠| -  
 TCP/IP详解 卷2 实现(英文版)| Gary R. Wright| 69| 网友捐赠| -  
@@ -148,16 +148,16 @@ IPv6详解（卷2：高级协议实现）（英文版）| Qing Li| 128.00| 网�
 
 | 书名                               | 作者    | 定价（￥） | 备注   | 借阅情况     |
 |------------------------------------|---------|--------|--------|-------------|
-| 数学之美                            | 吴军    | 45.0   | LUG购置 | -           |
+| 数学之美                            | 吴军    | 45.0   | HCOI购置 | -           |
 | 浪潮之巅                            | 吴军    | 55.00  | 会员捐赠 | 已借出       |
-| 浪潮之巅                            | 吴军    | 35.80  | LUG购置 | -           |
-| 失控: 全人类的最终命运和结局           | 凯文·凯利 | 48.50  | LUG购置 | unavailable |
-| 黑客与画家: 硅谷创业之父Paul Graham文集 | 阮一峰   | 33.80  | LUG购置 | 已借出       |
-| 科技想要什么                         | 凯文·凯利 | 40.00  | LUG购置 | -           |
+| 浪潮之巅                            | 吴军    | 35.80  | HCOI购置 | -           |
+| 失控: 全人类的最终命运和结局           | 凯文·凯利 | 48.50  | HCOI购置 | unavailable |
+| 黑客与画家: 硅谷创业之父Paul Graham文集 | 阮一峰   | 33.80  | HCOI购置 | 已借出       |
+| 科技想要什么                         | 凯文·凯利 | 40.00  | HCOI购置 | -           |
 UNIX编程艺术（翻译） <br> The Art of UNIX Programming| Eric S. Raymond| 59.00| 会员捐赠| -  
 设计心理学（翻译）<br> The design of everyday things| Donald Arthur Norman| 30.00| 会员捐赠| -  
 用户体验要素（翻译，彩印） <br> The Elements of User Experience| Jesse James Garrett| 39.00| 会员捐赠| 借出  
-设计原本: 计算机科学巨匠Frederick P. Brooks的思考| 布鲁克斯| 37.70| LUG购置| -  
+设计原本: 计算机科学巨匠Frederick P. Brooks的思考| 布鲁克斯| 37.70| HCOI购置| -  
 Mathematics and Technology| Christiane Rousseau| 打印| 会员捐赠| -  
 [代码之美](http://book.douban.com/subject/3224524/ "http://book.douban.com/subject/3224524/")| Grey Wilson| 99.00| boj捐赠| -  
   
@@ -166,10 +166,10 @@ Mathematics and Technology| Christiane Rousseau| 打印| 会员捐赠| -
 
 | 书名                       | 作者                                                                        | 定价（￥） | 备注     | 借阅情况 |
 |----------------------------|-----------------------------------------------------------------------------|--------|----------|--------|
-| Node.js开发指南             | 郭家宝                                                                       | 45.00  | LUG购置  | 已借出  |
+| Node.js开发指南             | 郭家宝                                                                       | 45.00  | HCOI购置  | 已借出  |
 | PHP高级编程                 | Jesus Castagnetto                                                           | 78     | 网友捐赠  | -      |
-| JavaScript高级程序设计(第3版) | Nicholas C. Zakas                                                           | 71.80  | LUG购置  | 已借出  |
-| CSS实战手册(第2版)           | David Sawyer McFarland                                                      | 52.40  | LUG购置  | 现在西区 |
+| JavaScript高级程序设计(第3版) | Nicholas C. Zakas                                                           | 71.80  | HCOI购置  | 已借出  |
+| CSS实战手册(第2版)           | David Sawyer McFarland                                                      | 52.40  | HCOI购置  | 现在西区 |
 | PHP4 网站构架精辟            | -                                                                           | 42     | 网友捐赠  | -      |
 | PHP & MySQL Web            | -                                                                           | 48     | 网友捐赠  | 借出1本 |
 | CSS 2.1 Specification      | W3C                                                                         | 打印   | 会员捐赠  | -      |
@@ -177,10 +177,10 @@ Mathematics and Technology| Christiane Rousseau| 打印| 会员捐赠| -
 | XQuery 1.0 Specification   | W3C                                                                         | 打印   | 会员捐赠  | -      |
 | HTML5与CSS3权威指南         | 陆凌牛                                                                       | 69.00  | 会员捐赠  | -      |
 | 精通CSS：高级Web标准解决方案   | Andy Budd                                                                   | 49.00  | 会员捐赠  | -      |
-| Programming Android（影印版） | Zigurd Medieks等                                                            | 88.00  | LUG购置  | 借出1本 |
-| Android应用开发揭秘          | 杨丰盛                                                                       | 69.00  | LUG购置  | -      |
-| Learning Android（翻译）     | Marko Gargenta                                                              | 49.00  | LUG购置  | -      |
-| SEO艺术                    | Eric Enge等                                                                 | 89.00  | LUG购置  | -      |
+| Programming Android（影印版） | Zigurd Medieks等                                                            | 88.00  | HCOI购置  | 借出1本 |
+| Android应用开发揭秘          | 杨丰盛                                                                       | 69.00  | HCOI购置  | -      |
+| Learning Android（翻译）     | Marko Gargenta                                                              | 49.00  | HCOI购置  | -      |
+| SEO艺术                    | Eric Enge等                                                                 | 89.00  | HCOI购置  | -      |
 | PHP和MySQL Web开发（第四版）   | Luke Welling & Laura Thomson                                                | 95.00  | ewind捐赠 | -      |
 | CSS权威指南（第三版）          | Eric A. Meyer                                                               | 58.00  | ewind捐赠 | -      |
 | HTTP权威指南                | David Gourley & Brian Totty & Marjorie Sayer & Sailu Reddy & Anshu Aggarwal | 109.00 | ewind捐赠 | -      |
@@ -210,19 +210,19 @@ MongoDB权威指南（翻译） <br> MongoDB: The Definitive Guide| Kristina Cho
 现代操作系统（第3版，英文）<br> Modern Operating Systems| Andrew S. Tanenbaum| 69.00| 会员捐赠| unavailable  
 操作系统概念（第7版，翻译）<br> Operating System Concepts| Abraham Silberschatz等| 74.00| 会员捐赠| 已借出  
 操作系统概念（第6版，翻译）<br> Operating System Concepts| Abraham Silberschatz等| 74.00| 会员捐赠| 已借出  
-计算机网络（英文版·第5版）<br> Computer Networks| 塔嫩鲍姆| 99.00| LUG购置| -  
-计算机组成与设计：硬件、软件接口（第4版）<br> Computer Organization and Design| 帕特森| 99.00| LUG购置| -  
+计算机网络（英文版·第5版）<br> Computer Networks| 塔嫩鲍姆| 99.00| HCOI购置| -  
+计算机组成与设计：硬件、软件接口（第4版）<br> Computer Organization and Design| 帕特森| 99.00| HCOI购置| -  
 计算机组成与设计：硬件、软件接口（第3版）<br> Computer Organization and Design| 帕特森| 75.00| 会员捐赠| 已借出  
 搜索引擎–信息检索实践（英文）<br> Search Engines – Information Retrieval in Practice| W. Bruce Croft等| 45.00| 会员捐赠| -  
 机器视觉教程（英文）<br> Machine Vision| Wesley E. Snyder等| 49.00| 会员捐赠| -  
 计算机图形学（英文）<br> Computer Graphics| Steve Cunningham| 36.00| 会员捐赠| -  
 云计算（第二版）| 刘鹏| 48.00| 会员捐赠| -  
-人工智能——一种现代方法(第二版) <br> Artificial Intelligence - A Modern Approach| 拉塞尔等| 89.00| LUG购置| 已借出  
-数字设计和计算机体系结构（英文版）<br> Digital Design and Computer Architecture| 哈里斯| 65.00| LUG购置| -  
-MIPS体系结构透视<br>See MIPS Run| 斯威特曼| 48.00| LUG购置| -  
-深入理解计算机系统(英文版, 第2版)| 布莱恩特, 奥哈拉伦| 85.00| LUG购置| -  
-深入理解计算机系统(原书第2版)| 布莱恩特| 65.60| LUG购置| -  
-[深入理解计算机系统（修订版）](http://book.douban.com/subject/1230413/ "http://book.douban.com/subject/1230413/")| Randal E. Bryant| 85| LUG购置| unavailable  
+人工智能——一种现代方法(第二版) <br> Artificial Intelligence - A Modern Approach| 拉塞尔等| 89.00| HCOI购置| 已借出  
+数字设计和计算机体系结构（英文版）<br> Digital Design and Computer Architecture| 哈里斯| 65.00| HCOI购置| -  
+MIPS体系结构透视<br>See MIPS Run| 斯威特曼| 48.00| HCOI购置| -  
+深入理解计算机系统(英文版, 第2版)| 布莱恩特, 奥哈拉伦| 85.00| HCOI购置| -  
+深入理解计算机系统(原书第2版)| 布莱恩特| 65.60| HCOI购置| -  
+[深入理解计算机系统（修订版）](http://book.douban.com/subject/1230413/ "http://book.douban.com/subject/1230413/")| Randal E. Bryant| 85| HCOI购置| unavailable  
 Representation and Inference for Natural Language (Volume 1)| Patrick Blackburn et al| 打印| 会员捐赠| -  
 Representation and Inference for Natural Language (Volume 2)| Patrick Blackburn et al| 打印| 会员捐赠| -  
 计算机代数讲义| 陈玉福| 25.00| 会员捐赠| -  
@@ -273,15 +273,15 @@ Joanne M. Atlee| 48.00| boj捐赠| -
 
 | 书名                                                                                                                   | 作者                    | 定价（￥） | 备注       | 借阅情况 |
 |------------------------------------------------------------------------------------------------------------------------|-------------------------|--------|------------|--------|
-| [精通正则表达式（第三版）](http://book.douban.com/subject/2154713/ "http://book.douban.com/subject/2154713/")               | Jeffrey E. F. Friedl    | 85     | LUG购置    | -      |
+| [精通正则表达式（第三版）](http://book.douban.com/subject/2154713/ "http://book.douban.com/subject/2154713/")               | Jeffrey E. F. Friedl    | 85     | HCOI购置    | -      |
 | 大话设计模式                                                                                                             | 程杰                    | 45.00  | 会员捐赠    | -      |
-| [程序员的自我修养：链接、装载与库](http://book.douban.com/subject/3652388/ "http://book.douban.com/subject/3652388/")        | 俞甲子、石凡、潘爱民        | 65     | LUG购置    | -      |
+| [程序员的自我修养：链接、装载与库](http://book.douban.com/subject/3652388/ "http://book.douban.com/subject/3652388/")        | 俞甲子、石凡、潘爱民        | 65     | HCOI购置    | -      |
 | The Fallibility of Human Reason in Everyday Life                                                                       | Thomas Gilovich         | 打印   | 会员捐赠    | -      |
 | A Rulebook for Arguments                                                                                               | Anthony Weston          | 打印   | 会员捐赠    | -      |
 | Asking the Right Questions - A Guide to Critical Thinking                                                              | M. Neil Browne et al    | 打印   | 会员捐赠    | -      |
 | Orange's一个操作系统的实现                                                                                                | 于渊                    | 69     | 不详       |        |
 | 软件开发的科学与艺术                                                                                                      | 张亚勤                   | 38     | 不详       | -      |
-| 社交网站的数据挖掘与分析                                                                                                   | Matthew A. Russel       | 59.00  | LUG购置    | 已借出  |
+| 社交网站的数据挖掘与分析                                                                                                   | Matthew A. Russel       | 59.00  | HCOI购置    | 已借出  |
 | 乐者为王（just for fun）                                                                                                  | Linus Torvalds          | 20.00  | stephen捐赠 | -      |
 | 密战 网络犯罪大追踪                                                                                                       | Joseph Menn             | 39.00  | 同学捐赠    | -      |
 | ROOTKITS——Windows内核的安全防护                                                                                          | GregHoglund JamesButler | 39.00  | 同学捐赠    | -      |
@@ -298,7 +298,7 @@ Joanne M. Atlee| 48.00| boj捐赠| -
 
   
 
-# LUG会员推荐购置图书列表
+# HCOI会员推荐购置图书列表
 
 |书名 |  备注|
 |---|---|

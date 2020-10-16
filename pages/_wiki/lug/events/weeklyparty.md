@@ -1,7 +1,7 @@
 ---
 ---
 
-# LUG 每周小聚
+# HCOI 每周小聚
 
 **我们曾经……**
 
@@ -17,9 +17,9 @@
 * 群策群力解决令人抓耳挠腮的问题，
 * 共同发扬 GNU 文化，提高 Linux 水平。 自 2011 年 10 月起，每个周末都有每周小聚活动，由一位同学做技术分享演讲，欢迎所有师生参与。具体时间、地点和内容会在周四发到邮件列表和瀚海星云BBS Notice/Linux 版上。
 
-如果您希望讨论某个主题或主持小聚，欢迎加入 [LUG 邮件列表](/wiki/lug/mailinglist)
+如果您希望讨论某个主题或主持小聚，欢迎加入 [HCOI 邮件列表](/wiki/lug/mailinglist)
 
-每周小聚的时间地点我们会通过 LUG 邮件列表、BBS Linux/Notice 版等处发出通知，请大家持续关注！
+每周小聚的时间地点我们会通过 HCOI 邮件列表、BBS Linux/Notice 版等处发出通知，请大家持续关注！
 
 每周小聚的资料在这里：<https://ftp.lug.ustc.edu.cn/weekly_party/>
 
@@ -28,7 +28,7 @@
 **主讲人请注意：**
 
 * 毋忘上传 slides，越早越好(在愿意分享 slides 的前提下) ![FIXME](/wiki/lib/images/smileys/fixme.gif) slides 的版权问题？
-* 在 BBS Linux 发通知时，注意打上 LUG 标签
+* 在 BBS Linux 发通知时，注意打上 HCOI 标签
 * 尽早编辑本 wiki，活动时间以本 wiki 为准
 
 ## Time Table
@@ -144,7 +144,7 @@
 
 | 日期       | 主持   | 主题                  | 讲稿                                                         | 视频                                                         |
 | :--------- | :----- | :-------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 2014-12-13 | 康雷   | Tornado开发简介与实例 | [Slides](/wiki/lib/exe/fetch.php?tok=362767&media=http%3A%2F%2Fftp.lug.ustc.edu.cn%2Fweekly_party%2F2014.12.13_Tornado%2FLUG_tornado.pdf) |                                                              |
+| 2014-12-13 | 康雷   | Tornado开发简介与实例 | [Slides](/wiki/lib/exe/fetch.php?tok=362767&media=http%3A%2F%2Fftp.lug.ustc.edu.cn%2Fweekly_party%2F2014.12.13_Tornado%2FHCOI_tornado.pdf) |                                                              |
 | 2014-11-22 | 沈达   | TeXmacs入门讲座       | [Slides](/wiki/_media/lug/texmacs_intro.pdf) [Source Code](/wiki/_media/lug/graph.tar.gz) |                                                              |
 | 2014-11-08 | 张光宇 | Clojure 简介          | [Slides](/wiki/_media/lug/weekly-clojure.pdf) | [Video](ftp://ftp:ftp@ftp.lug.ustc.edu.cn/weekly_party/2014.11.08_Clojure/wp-clojure.mp4) |
 | 2014-11-01 | 张荣葳 | 你所不知道的 DNS      | [Slides](/wiki/lib/exe/fetch.php?tok=203ca3&media=http%3A%2F%2Fftp.lug.ustc.edu.cn%2Fweekly_party%2F2014.11.01_DNS_and_DNSSec%2FDNS.pdf) | [Video](https://ftp.lug.ustc.edu.cn/weekly_party/2014.11.01_DNS_and_DNSSec/2014.11.01_你所不知道的DNS.mp4) |
@@ -241,4 +241,4 @@
 
 ## 其他周在干什么？
 
-[LUG的活动](/wiki/lug/events)很丰富的哦 :)
+[HCOI的活动](/wiki/lug/events)很丰富的哦 :)

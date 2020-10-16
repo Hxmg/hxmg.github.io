@@ -1,7 +1,7 @@
 ---
 ---
 
-# LUG 网站 Wiki 页面模板
+# HCOI 网站 Wiki 页面模板
 
 复制本文件至你想要的路径（注意应当在 `_wiki` 目录树中），使用 Markdown 内容替换掉本说明文字即可。当你将复制的文件命名为 `some/path/name.md` 的时候，它将自动渲染为 `/wiki/some/path/name/` 页面。格式样例请参考附近的其他文件。
 

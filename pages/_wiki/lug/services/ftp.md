@@ -1,11 +1,11 @@
 ---
 ---
 
-# LUG@USTC FTP 文件存档
+# HCOI@USTC FTP 文件存档
 
 ## 简介
 
-LUG FTP 对应域名为 [ftp.lug.ustc.edu.cn](ftp://ftp.lug.ustc.edu.cn/)。 
+HCOI FTP 对应域名为 [ftp.lug.ustc.edu.cn](ftp://ftp.lug.ustc.edu.cn/)。 
 
 注意：直接在浏览器中输入这个域名可能会被识别为 FTP 协议。 
 
@@ -43,4 +43,4 @@ AFP (Apple Filing Protocol) 地址： `afp://ftp.lug.ustc.edu.cn/` ，选择 Con
 
 * * *
 
-[LUG@USTC](https://lug.ustc.edu.cn/)
+[HCOI@USTC](https://lug.ustc.edu.cn/)

@@ -3,7 +3,7 @@
 
 # 中国科学技术大学开源软件镜像
 
-[mirrors.ustc.edu.cn](https://mirrors.ustc.edu.cn/ "https://mirrors.ustc.edu.cn") 由中国科学技术大学、中国科学技术大学网络信息中心支持，USTC LUG 维护。 
+[mirrors.ustc.edu.cn](https://mirrors.ustc.edu.cn/ "https://mirrors.ustc.edu.cn") 由中国科学技术大学、中国科学技术大学网络信息中心支持，USTC HCOI 维护。 
 
 ### 机器域名
 
@@ -32,7 +32,7 @@ rsync - **部分** [为什么？](https://servers.ustclug.org/2014/08/mirrors-ne
 
 请使用[开源镜像使用帮助列表](/wiki/mirrors/help、)，或点击主页源列表旁边的“Help”链接。 
 
-欢迎您协助我们更新使用帮助，请访问[ LUG 的 GitHub 项目](https://github.com/ustclug/mirrorhelp)。我们对您的帮助表示感谢。 
+欢迎您协助我们更新使用帮助，请访问[ HCOI 的 GitHub 项目](https://github.com/ustclug/mirrorhelp)。我们对您的帮助表示感谢。 
 
 ### 状态监控
 

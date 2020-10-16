@@ -13,21 +13,21 @@
 
 [点击此处了解详情](/wiki/lug/mailinglist)
 
-## Telegram上的LUG
+## Telegram上的HCOI
 
 加群链接见 jointele.ustclug.org 的 DNS TXT 记录
 
-## BBS 上的 LUG
+## BBS 上的 HCOI
 
 前往[瀚海星云BBS Linux 版](https://bbs.ustc.edu.cn/cgi/bbsdoc?board=Linux)与我们讨论。
 
-## QQ群上的LUG
+## QQ群上的HCOI
 
 适合于即时性较强的讨论，较正式的讨论还请使用官方邮件列表。
 
 * QQ 群: 群号请查看 `qq.ustclug.org` 的 DNS TXT 记录。校内学生请联系管理员了解详情。
 
-## IRC上的LUG
+## IRC上的HCOI
 
 * 网络：Freenode
 * 频道：#ustc_lug
@@ -38,12 +38,12 @@
 
 ## 面对面交流
 
-USTC LUG 在校内的活动室：
+USTC HCOI 在校内的活动室：
 
 * 西区：西区图书馆 206 室
 * 东区：~~东区图书馆 605 室~~（已搬迁）
 
-你也可以在 LUG 举办的各类活动中找到 LUG 的成员并当面进行交流。
+你也可以在 HCOI 举办的各类活动中找到 HCOI 的成员并当面进行交流。
 
 ## QQ 公众号
 
@@ -54,19 +54,19 @@ QQ: 2786229166
 ## 微信公众号
 
 ID: ustclug  
-Name: 中科大LUG
+Name: 中科大HCOI
 
 ![ustclug_mama.jpg]({{ site.static_url }}/wiki/lug/ustclug_mama.jpg)
 
-## 社交网络上的LUG
+## 社交网络上的HCOI
 
-快来关注SNS上的LUG账户吧！LUG活动通告，Linux使用技巧、业界新闻应有尽有！
+快来关注SNS上的HCOI账户吧！HCOI活动通告，Linux使用技巧、业界新闻应有尽有！
 
 **<i class="fas fa-exclamation-triangle"></i> 注意：**以下账号目前缺乏维护。
 {: .notice--warning }
 
-* Twitter: [@USTCLUG](http://www.twitter.com/ustclug/)
-* 人人：[USTCLUG](http://www.renren.com/profile.do?id=345760436)
-* 豆瓣：[科大LUG](http://www.douban.com/people/ustclug/)
+* Twitter: [@USTCHCOI](http://www.twitter.com/ustclug/)
+* 人人：[USTCHCOI](http://www.renren.com/profile.do?id=345760436)
+* 豆瓣：[科大HCOI](http://www.douban.com/people/ustclug/)
 
-更多信息，请参阅[LUG 宣传账号一览](/wiki/lug/sns)
+更多信息，请参阅[HCOI 宣传账号一览](/wiki/lug/sns)

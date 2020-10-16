@@ -38,11 +38,11 @@ permalink: /wiki/lug/services/
 
   + 内网 VPN
 
-  + 旧的 LUG Planet（社团博客）：<https://planet.ustclug.org>
+  + 旧的 HCOI Planet（社团博客）：<https://planet.ustclug.org>
 
 ### C 级服务
 
-  + [LUG FTP](ftp.md)：<https://ftp.lug.ustc.edu.cn>
+  + [HCOI FTP](ftp.md)：<https://ftp.lug.ustc.edu.cn>
 
   + Ganglia 监控：<https://status.ustclug.org>
 

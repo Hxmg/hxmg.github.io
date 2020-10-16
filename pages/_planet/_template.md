@@ -1,5 +1,5 @@
 ---
-title: "LUG 网站 Planet 文章模板"
+title: "HCOI 网站 Planet 文章模板"
 author: "Your Name?"
 categories: []
 tags: []

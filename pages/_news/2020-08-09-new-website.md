@@ -2,7 +2,7 @@
 title: "新网站上线啦"
 author: "iBug"
 categories:
-  - LUG网站
+  - HCOI网站
 tags: []
 ---
 

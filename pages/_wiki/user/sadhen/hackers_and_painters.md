@@ -69,4 +69,4 @@ Guile是GNU Ubiquitous Intelligent Language for Extensions的缩写，可以说�
 
 [http://lambda-the-ultimate.org](http://lambda-the-ultimate.org/ "http://lambda-the-ultimate.org")   
 [http://vivid.chengyichao.info](http://vivid.chengyichao.info/ "http://vivid.chengyichao.info")   
-LUG书库目前（Sat Mar 2 14:52:04 CST 2013）有《计算机程序的构造与解释》一书，图书馆没借到的话，今晚LUD后可以去书库借。 
+HCOI书库目前（Sat Mar 2 14:52:04 CST 2013）有《计算机程序的构造与解释》一书，图书馆没借到的话，今晚LUD后可以去书库借。 
